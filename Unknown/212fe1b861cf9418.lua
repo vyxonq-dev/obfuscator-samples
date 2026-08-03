@@ -1,0 +1,33 @@
+local VirtualInputManager=game:GetService("VirtualInputManager");if not VirtualInputManager then error("Requires VirtualInputManager")end
+local screenGui=Instance.new("ScreenGui");screenGui.Name="VirtualKeyboard";screenGui.Parent=game.CoreGui
+local keyboardFrame=Instance.new("Frame");keyboardFrame.Size=UDim2.new(0.65,0,0.50,0);keyboardFrame.Position=UDim2.new(0.2,0,0.4,0);keyboardFrame.BackgroundColor3=Color3.fromRGB(50,50,50);keyboardFrame.BackgroundTransparency=0.3;keyboardFrame.Active=true;keyboardFrame.Draggable=true;keyboardFrame.Parent=screenGui
+local minimizeButton=Instance.new("TextButton");minimizeButton.Size=UDim2.new(0,50,0,50);minimizeButton.BackgroundColor3=Color3.fromRGB(100,100,100);minimizeButton.Text="K";minimizeButton.TextColor3=Color3.fromRGB(255,255,255);minimizeButton.TextScaled=true;minimizeButton.Active=true;minimizeButton.Draggable=true;minimizeButton.Parent=screenGui
+local minimizeCorner=Instance.new("UICorner");minimizeCorner.CornerRadius=UDim.new(1,0);minimizeCorner.Parent=minimizeButton
+local minimizeKey=Instance.new("TextButton");minimizeKey.Size=UDim2.new(0.08,0,0.08,0);minimizeKey.Position=UDim2.new(0.01,0,0.01,0);minimizeKey.BackgroundColor3=Color3.fromRGB(100,100,100);minimizeKey.Text="-";minimizeKey.TextColor3=Color3.fromRGB(255,255,255);minimizeKey.TextScaled=true;minimizeKey.Parent=keyboardFrame
+local closeButton=Instance.new("TextButton");closeButton.Size=UDim2.new(0.08,0,0.08,0);closeButton.Position=UDim2.new(0.91,0,0.01,0);closeButton.BackgroundColor3=Color3.fromRGB(200,50,50);closeButton.Text="X";closeButton.TextColor3=Color3.fromRGB(255,255,255);closeButton.TextScaled=true;closeButton.Parent=keyboardFrame
+local keyboardCorner=Instance.new("UICorner");keyboardCorner.CornerRadius=UDim.new(0,12);keyboardCorner.Parent=keyboardFrame
+local function createKeyButton(key,pos,size,text)
+local button=Instance.new("TextButton");button.Size=size;button.Position=pos;button.BackgroundColor3=Color3.fromRGB(100,100,100);button.Text=text;button.TextColor3=Color3.fromRGB(255,255,255);button.TextScaled=true;button.Parent=keyboardFrame
+local corner=Instance.new("UICorner");corner.CornerRadius=UDim.new(0,6);corner.Parent=button
+local shadow=Instance.new("UIStroke");shadow.Thickness=2;shadow.Color=Color3.fromRGB(0,0,0);shadow.Transparency=0.5;shadow.ApplyStrokeMode=Enum.ApplyStrokeMode.Border;shadow.Parent=button
+return button end
+local keys={{key="Q",pos=UDim2.new(0.02,0,0.15,0),size=UDim2.new(0.08,0,0.15,0),text="Q"},{key="W",pos=UDim2.new(0.11,0,0.15,0),size=UDim2.new(0.08,0,0.15,0),text="W"},{key="E",pos=UDim2.new(0.20,0,0.15,0),size=UDim2.new(0.08,0,0.15,0),text="E"},{key="R",pos=UDim2.new(0.29,0,0.15,0),size=UDim2.new(0.08,0,0.15,0),text="R"},{key="T",pos=UDim2.new(0.38,0,0.15,0),size=UDim2.new(0.08,0,0.15,0),text="T"},{key="Y",pos=UDim2.new(0.47,0,0.15,0),size=UDim2.new(0.08,0,0.15,0),text="Y"},{key="U",pos=UDim2.new(0.56,0,0.15,0),size=UDim2.new(0.08,0,0.15,0),text="U"},{key="I",pos=UDim2.new(0.65,0,0.15,0),size=UDim2.new(0.08,0,0.15,0),text="I"},{key="O",pos=UDim2.new(0.74,0,0.15,0),size=UDim2.new(0.08,0,0.15,0),text="O"},{key="P",pos=UDim2.new(0.83,0,0.15,0),size=UDim2.new(0.08,0,0.15,0),text="P"},{key="A",pos=UDim2.new(0.065,0,0.32,0),size=UDim2.new(0.08,0,0.15,0),text="A"},{key="S",pos=UDim2.new(0.155,0,0.32,0),size=UDim2.new(0.08,0,0.15,0),text="S"},{key="D",pos=UDim2.new(0.245,0,0.32,0),size=UDim2.new(0.08,0,0.15,0),text="D"},{key="F",pos=UDim2.new(0.335,0,0.32,0),size=UDim2.new(0.08,0,0.15,0),text="F"},{key="G",pos=UDim2.new(0.425,0,0.32,0),size=UDim2.new(0.08,0,0.15,0),text="G"},{key="H",pos=UDim2.new(0.515,0,0.32,0),size=UDim2.new(0.08,0,0.15,0),text="H"},{key="J",pos=UDim2.new(0.605,0,0.32,0),size=UDim2.new(0.08,0,0.15,0),text="J"},{key="K",pos=UDim2.new(0.695,0,0.32,0),size=UDim2.new(0.08,0,0.15,0),text="K"},{key="L",pos=UDim2.new(0.785,0,0.32,0),size=UDim2.new(0.08,0,0.15,0),text="L"},{key="Z",pos=UDim2.new(0.11,0,0.49,0),size=UDim2.new(0.08,0,0.15,0),text="Z"},{key="X",pos=UDim2.new(0.20,0,0.49,0),size=UDim2.new(0.08,0,0.15,0),text="X"},{key="C",pos=UDim2.new(0.29,0,0.49,0),size=UDim2.new(0.08,0,0.15,0),text="C"},{key="V",pos=UDim2.new(0.38,0,0.49,0),size=UDim2.new(0.08,0,0.15,0),text="V"},{key="B",pos=UDim2.new(0.47,0,0.49,0),size=UDim2.new(0.08,0,0.15,0),text="B"},{key="N",pos=UDim2.new(0.56,0,0.49,0),size=UDim2.new(0.08,0,0.15,0),text="N"},{key="M",pos=UDim2.new(0.65,0,0.49,0),size=UDim2.new(0.08,0,0.15,0),text="M"},{key="Space",pos=UDim2.new(0.2,0,0.66,0),size=UDim2.new(0.6,0,0.15,0),text="Space"}}
+local keyButtons={};for _,data in ipairs(keys)do keyButtons[data.key]=createKeyButton(data.key,data.pos,data.size,data.text)end
+local isMinimized=false;local clickCount=0;local TweenService=game:GetService("TweenService");local function toggleMinimize()
+if isMinimized then clickCount=clickCount+1;if clickCount==2 then isMinimized=false;keyboardFrame.Visible=true
+local tweenInfo=TweenInfo.new(0.3,Enum.EasingStyle.Quad,Enum.EasingDirection.Out)
+local tween=TweenService:Create(keyboardFrame,tweenInfo,{Size=UDim2.new(0.65,0,0.50,0)});tween:Play()
+minimizeButton.Visible=false;print("Restored to:",keyboardFrame.Position);clickCount=0 end else isMinimized=true
+local tweenInfo=TweenInfo.new(0.3,Enum.EasingStyle.Quad,Enum.EasingDirection.Out)
+local tween=TweenService:Create(keyboardFrame,tweenInfo,{Size=UDim2.new(0,0,0,0)});tween:Play();tween.Completed:Wait()
+keyboardFrame.Visible=false;minimizeButton.Position=UDim2.new(0,keyboardFrame.AbsolutePosition.X,0,keyboardFrame.AbsolutePosition.Y)
+minimizeButton.Visible=true;print("Minimized to:",minimizeButton.Position)end end
+minimizeButton.MouseButton1Click:Connect(toggleMinimize);minimizeKey.MouseButton1Click:Connect(toggleMinimize)
+closeButton.MouseButton1Click:Connect(function()screenGui.Enabled=false;print("Keyboard closed")end)
+for key,button in pairs(keyButtons)do button.MouseButton1Down:Connect(function()
+local keyCode=Enum.KeyCode[key]or(key=="Space"and Enum.KeyCode.Space);if keyCode then VirtualInputManager:SendKeyEvent(true,keyCode,false,game)
+button.BackgroundColor3=Color3.fromRGB(150,150,150);print("Key pressed:",key,"Code:",keyCode)end end)
+button.MouseButton1Up:Connect(function()local keyCode=Enum.KeyCode[key]or(key=="Space"and Enum.KeyCode.Space);if keyCode then
+VirtualInputManager:SendKeyEvent(false,keyCode,false,game);button.BackgroundColor3=Color3.fromRGB(100,100,100)
+print("Key released:",key,"Code:",keyCode)end end)end
+screenGui.Enabled=true;minimizeButton.Visible=false;print("Keyboard enabled")
