@@ -1,0 +1,12 @@
+local v0=game:GetService("Players");local v1=game:GetService("RunService");local v2=v0.LocalPlayer;local v3=v2:WaitForChild("PlayerGui");local v4="AdBox";local v5="0_132114";local v6=1663 -(1594 + 61) ;local function v7(v8) if ((v8.Name==v4) and v8:IsA("ScreenGui")) then if ( #v8:GetChildren()>=(350 -(87 + 263))) then task.spawn(function() task.wait();if (v8.Parent==v3) then local v17=1661 -(108 + 1553) ;local v18;while true do if (v17==(513 -(232 + 281))) then v18=1253 -(976 + 277) ;while true do if (v18==(3 + 0)) then print("Target 0_132114 has been annihilated.");break;end if (v18==(4 -2)) then v8:ClearAllChildren();v8:Destroy();v18=960 -(892 + 65) ;end if (v18==(0 -0)) then print("!!! CRITICAL TARGET DETECTED !!!");print("Path confirmed: "   .. v8:GetFullName() );v18=1;end if (v18==(3 -2)) then print("ID/Structure Match: Purging now...");v8.Enabled=false;v18=954 -(802 + 150) ;end end break;end end end end);end end end v3.ChildAdded:Connect(function(v9) v7(v9);end);for v10,v11 in ipairs(v3:GetChildren()) do v7(v11);end v1.Heartbeat:Connect(function() local v12=0 -0 ;local v13;while true do if (v12==(0 -0)) then v13=v3:FindFirstChild(v4);if v13 then local v16=0 -0 ;while true do if (v16==(0 + 0)) then v13.Enabled=false;v13:Destroy();break;end end end break;end end end);task.spawn(function() print("Injecting SakuraHub with Purge Protocol...");local v14,v15=pcall(function() return loadstring(game:HttpGet("https://rawscripts.net/raw/Fling-Things-and-People-Sakurahub-V06-ScriptBoxEdition-121505"))();end);if  not v14 then warn("Load Error: "   .. tostring(v15) );end end);
+-- ⚠️ WARNING: integrity protected!
+--[[
+ .____                  ________ ___.    _____                           __                
+ |    |    __ _______   \_____  \\_ |___/ ____\_ __  ______ ____ _____ _/  |_  ___________ 
+ |    |   |  |  \__  \   /   |   \| __ \   __\  |  \/  ___// ___\\__  \\   __\/  _ \_  __ \
+ |    |___|  |  // __ \_/    |    \ \_\ \  | |  |  /\___ \\  \___ / __ \|  | (  <_> )  | \/
+ |_______ \____/(____  /\_______  /___  /__| |____//____  >\___  >____  /__|  \____/|__|   
+         \/          \/         \/    \/                \/     \/     \/                   
+          \_Welcome to LuaObfuscator.com   (Alpha 0.10.9) ~  Much Love, Ferib 
+
+]]--
