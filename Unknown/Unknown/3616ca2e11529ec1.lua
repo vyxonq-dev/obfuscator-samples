@@ -1,0 +1,7 @@
+-- Do not save this file
+-- Always use the loadstring 
+  _bsdata0={2816934,1771096862,28649283,53496552,"\76\133\98\244\191\39\102\49\235\76\243\249\71\116\187\237\78\104\177\163\127\138\223\163","355L_E-_B1B_DC52RLDD_25LC_50DBDL3CC03-05-LRD1R4RCE4DR_C2-.LBD-L44AE0L1A231CB.R502ER.A.030DE2_30AL.04R00452RCBA.E4-ER__4CA.0-4RLE54CBCL_B",4099435,"b8831e800cb6eac0c9e1f48b354b3c417f23661cd047988e13c63db9464682fe18651e124523fdf8a1ad26b85b9e53ccfa1b0f14490bd9401f8f234d80c7a98c18d49ad146a21f35b4dda849cb4f829b51ab31c272c896c3daf9bcb55b168ac3e951e515f346783ceea7d59f9d1fa96a849a61d231a1a84c2c4aa45cad9e431dcc86d966a791145527d1efed652e4836e04b8eec5b86cf8f69155b841028402f94569a242d650eb03a846800bfd1e8e2769293e654cba29d7d57112dbdf446075f1fbde190693af0983b","\41\161\169\6\17\144\250\45\199\80\228\209\77\142\130\193\77\18\46\76\96\223\6\204\2\236\125\118\80",55797258,2374084814,3292819378};
+local f,b,a="static_content_130525","f51a77ab612-carrot";pcall(function()a=readfile(f.."/init-"..b..".lua")end) if a and #a>2000 then a=loadstring(a) else a=nil; end;
+if a then return a() else pcall(makefolder,f) a=game:HttpGet("https://cdn.luarmor.net/v4_init_carrot.lua"..(_ca920af6193 or "")) writefile(f.."/init-"..b..".lua", a); 
+pcall(function() for i,v in pairs(listfiles('./'..f)) do local m=v:match('(init[%w%-]*).lua$') if m and m~=('init-'..b) then pcall(delfile, f..'/'..m..'.lua') end end; end); return loadstring(a)() end
+  

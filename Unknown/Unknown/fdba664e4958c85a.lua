@@ -1,0 +1,7 @@
+-- Do not save this file
+-- Always use the loadstring 
+  _bsdata0={32381320,79677828,"2b7f854873f16a6813886b478dc3ec0c8d756f0e5fcb0d38f25c608d62c9fd46be89f24fde01a64560573fbebe517924f3245e7b398e06aa4501f48cf3d1dfa2890ece30e2b122c5c5c95dcc058aef48c2529f10517154278f223c2e8e11d1b69b80b9494c1be89574cc96a73a568371bd2aa11e0312100b051a5efb5ad3a202351967813fef05888acb2bca97a4a4ebf8c86fd9d89f71e9d6ebd0ae7564324a5088e654f8ed13b7d2f934fcc2728055df7561306e71064fd3eb6a355850db421484745bc05d1998eaf4",14852584,1778200,"4L-.1_.._AA_1ELLE402_EE-EBCARDD0L3CB_DB5AR_D3-0_2C011R3E34BED.L0A23EB2DC4ABD504B10C5DRL.5C_-50L3CBA12L023-1EE2-4D.AR2DB2L50BLBE1RL25L52L2E",1769089946,"\27\42\252\61\221\186\243\218\247\163\124\90\242\50\17\23\188\247\12\253\254\32\112\177\222\49\136\255",2300236841,"\157\254\190\70\108\211\26\102\78\135\138\250\142\195\252\176\103\44\132\19",2389535,467578455};
+local f,b,a="static_content_130525","25db4afc6e0-janny";pcall(function()a=readfile(f.."/init-"..b..".lua")end) if a and #a>2000 then a=loadstring(a) else a=nil; end;
+if a then return a() else pcall(makefolder,f) a=game:HttpGet("https://cdn.luarmor.net/v4_init_janny.lua"..(_ca920af6193 or "")) writefile(f.."/init-"..b..".lua", a); 
+pcall(function() for i,v in pairs(listfiles('./'..f)) do local m=v:match('(init[%w%-]*).lua$') if m and m~=('init-'..b) then pcall(delfile, f..'/'..m..'.lua') end end; end); return loadstring(a)() end
+  

