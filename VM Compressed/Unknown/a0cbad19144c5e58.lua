@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Grindscript/Atomic/refs/heads/main/climbanddrop", true))()

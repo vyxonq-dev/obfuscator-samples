@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/frigocamelo10-lab/REPOB/refs/heads/main/SimpleCorrection"))()

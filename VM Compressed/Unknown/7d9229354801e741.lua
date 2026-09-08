@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://rawscripts.net/raw/HIDE-AND-SEEK-Ink-Game-THIS-INK-SCRIPT-IS-ILLEGAL-INSANE-44988"))()

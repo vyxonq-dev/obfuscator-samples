@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/deprivationist/Sypher-Hub-NDS/refs/heads/main/Sypher%20Hub%20NDS.txt"))()

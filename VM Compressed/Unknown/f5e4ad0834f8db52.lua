@@ -1,0 +1,11 @@
+-- Lua script by Shimunax
+    print("Thanks for use my script")
+    loadstring(game:HttpGet("https://shinzux.vercel.app/files/kenyamananku"))()
+    print("Script has loading by shinzu")
+    loadstring(game:HttpGet("https://shinzux.vercel.app/files/notforseeing.lua"))()
+    print("Join discord")
+    print("https://discord.gg/EJkYJMt337")
+loadstring(game:HttpGet("https://shinzux.vercel.app/files/splashsekilas.lua"))()
+print("script has been loading")
+loadstring(game:HttpGet("https://shinzux.vercel.app/files/HAHASHINZUXLOAD.lua"))()
+print("if not loading your executor not working")

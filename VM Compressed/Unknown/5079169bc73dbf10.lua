@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zainmorgan09-dotcom/Missile-Script/70530e6d1fc05e690c9dfd5671d60d8f661b43ce/Missile%20Script"))()

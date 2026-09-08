@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://github.com/DudxJs/ScriptsUniverseStudio/raw/refs/heads/main/VCBypassMobileSupport%20NoKey"))()

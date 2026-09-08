@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AbdouGG/NurkHub2/refs/heads/main/Games/Build%20A%20Ring%20Farm/main"))()

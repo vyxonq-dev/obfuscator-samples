@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Truyem/Anime-Expeditions/refs/heads/main/AnimeExpeditionsUltimate.lua"))()

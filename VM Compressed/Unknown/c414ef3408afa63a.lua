@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/SigmaSkrt/SigmaLibrary/refs/heads/main/simpleesp.lua'))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/qweqweqweqtqtw/TLKprison-plutonium-Vibecodebpdz-public.lua/refs/heads/main/Plutonium%20vibecodebpdz%20Tlk%20prison%20public.lua"))()

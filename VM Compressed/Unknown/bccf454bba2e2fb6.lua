@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/flontify/ShinyHub/refs/heads/main/loader.lua"))()

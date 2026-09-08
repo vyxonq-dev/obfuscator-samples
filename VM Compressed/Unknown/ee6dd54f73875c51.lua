@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/InnocentViru/Minos-Prime-Release/refs/heads/main/MinosPrimeSource.lua")) ()

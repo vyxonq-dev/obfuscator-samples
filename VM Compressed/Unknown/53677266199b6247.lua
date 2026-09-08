@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Hisoka-hub2026/AnimeLifePizzaFarmOhh/refs/heads/main/Pizza.lua"))()

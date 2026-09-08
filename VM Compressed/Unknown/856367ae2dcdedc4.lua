@@ -1,0 +1,104 @@
+function XfYMOKYTJnNfNDnwvUQoInirEHCpqrfeEVEhrzYNdNnoTTEZIgudAMyV(code)res=''for i in ipairs(code)do res=res..string.char(code[i]/105)end return res end 
+
+
+
+local library = loadstring(game:HttpGet(XfYMOKYTJnNfNDnwvUQoInirEHCpqrfeEVEhrzYNdNnoTTEZIgudAMyV({10920,12180,12180,11760,12075,6090,4935,4935,11970,10185,12495,4830,10815,11025,12180,10920,12285,10290,12285,12075,10605,11970,10395,11655,11550,12180,10605,11550,12180,4830,10395,11655,11445,4935,11340,11655,11340,11760,11655,11760,11760,12705,12285,12075,4935,8610,11655,10290,11340,11655,12600,4725,7980,12285,10185,4935,11445,10185,12075,12180,10605,11970,4935,8400,11655,11760,3885,5250,5040,8925,7665,3885,5250,5040,7980,11025,10290}), true))()
+
+local ui = library:Tab(XfYMOKYTJnNfNDnwvUQoInirEHCpqrfeEVEhrzYNdNnoTTEZIgudAMyV({11340,11025,11445,11025,12180,11340,10605,12075,12075,3360,11760,12285,11970,11760,11340,10605}))
+
+ui:Dropdown(XfYMOKYTJnNfNDnwvUQoInirEHCpqrfeEVEhrzYNdNnoTTEZIgudAMyV({8715,11760,10185,12495,11550,3360,8400,12285,11970,11760,11340,10605,3360,8715,10920,11655,12180}), {XfYMOKYTJnNfNDnwvUQoInirEHCpqrfeEVEhrzYNdNnoTTEZIgudAMyV({7560,11655,11340,11340,11655,12495,3360,8400,12285,11970,11760,11340,10605}),XfYMOKYTJnNfNDnwvUQoInirEHCpqrfeEVEhrzYNdNnoTTEZIgudAMyV({7665,11445,10185,10815,11025,11550,10185,11970,12705,3360,8400,12285,11970,11760,11340,10605}),XfYMOKYTJnNfNDnwvUQoInirEHCpqrfeEVEhrzYNdNnoTTEZIgudAMyV({7980,11025,11445,11025,12180,11340,10605,12075,12075,3360,8400,12285,11970,11760,11340,10605}),XfYMOKYTJnNfNDnwvUQoInirEHCpqrfeEVEhrzYNdNnoTTEZIgudAMyV({5250,5040,5040,3885,3360,8400,12285,11970,11760,11340,10605})}, function(arg)
+	if arg == XfYMOKYTJnNfNDnwvUQoInirEHCpqrfeEVEhrzYNdNnoTTEZIgudAMyV({7560,11655,11340,11340,11655,12495,3360,8400,12285,11970,11760,11340,10605}) then
+	local LP = game.Players.LocalPlayer
+repeat wait() until LP.Character
+for i,v in pairs(LP.Backpack:GetChildren()) do
+   if v.Name == XfYMOKYTJnNfNDnwvUQoInirEHCpqrfeEVEhrzYNdNnoTTEZIgudAMyV({7560,11655,11340,11340,11655,12495,3360,8400,12285,11970,11760,11340,10605}) then
+       v.Parent = LP.Character
+   end
+end
+			game:GetService(XfYMOKYTJnNfNDnwvUQoInirEHCpqrfeEVEhrzYNdNnoTTEZIgudAMyV({8400,11340,10185,12705,10605,11970,12075})).LocalPlayer.Character:FindFirstChild(XfYMOKYTJnNfNDnwvUQoInirEHCpqrfeEVEhrzYNdNnoTTEZIgudAMyV({7560,11655,11340,11340,11655,12495,3360,8400,12285,11970,11760,11340,10605})).LocalScript.Event:FireServer()
+		end
+	if arg == XfYMOKYTJnNfNDnwvUQoInirEHCpqrfeEVEhrzYNdNnoTTEZIgudAMyV({7665,11445,10185,10815,11025,11550,10185,11970,12705,3360,8400,12285,11970,11760,11340,10605}) then
+	local LP = game.Players.LocalPlayer
+repeat wait() until LP.Character
+for i,v in pairs(LP.Backpack:GetChildren()) do
+   if v.Name == XfYMOKYTJnNfNDnwvUQoInirEHCpqrfeEVEhrzYNdNnoTTEZIgudAMyV({7665,11445,10185,10815,11025,11550,10185,11970,12705,3360,8400,12285,11970,11760,11340,10605}) then
+       v.Parent = LP.Character
+   end
+end
+		  game:GetService(XfYMOKYTJnNfNDnwvUQoInirEHCpqrfeEVEhrzYNdNnoTTEZIgudAMyV({8400,11340,10185,12705,10605,11970,12075})).LocalPlayer.Character:FindFirstChild(XfYMOKYTJnNfNDnwvUQoInirEHCpqrfeEVEhrzYNdNnoTTEZIgudAMyV({7665,11445,10185,10815,11025,11550,10185,11970,12705,3360,8400,12285,11970,11760,11340,10605})).LocalScript.Event:FireServer()
+  end
+  if arg == XfYMOKYTJnNfNDnwvUQoInirEHCpqrfeEVEhrzYNdNnoTTEZIgudAMyV({7980,11025,11445,11025,12180,11340,10605,12075,12075,3360,8400,12285,11970,11760,11340,10605}) then
+  local LP = game.Players.LocalPlayer
+repeat wait() until LP.Character
+for i,v in pairs(LP.Backpack:GetChildren()) do
+   if v.Name == XfYMOKYTJnNfNDnwvUQoInirEHCpqrfeEVEhrzYNdNnoTTEZIgudAMyV({7980,11025,11445,11025,12180,11340,10605,12075,12075,3360,8400,12285,11970,11760,11340,10605}) then
+       v.Parent = LP.Character
+   end
+end
+		  game:GetService(XfYMOKYTJnNfNDnwvUQoInirEHCpqrfeEVEhrzYNdNnoTTEZIgudAMyV({8400,11340,10185,12705,10605,11970,12075})).LocalPlayer.Character:FindFirstChild(XfYMOKYTJnNfNDnwvUQoInirEHCpqrfeEVEhrzYNdNnoTTEZIgudAMyV({7980,11025,11445,11025,12180,11340,10605,12075,12075,3360,8400,12285,11970,11760,11340,10605})).LocalScript.Event:FireServer()
+  end
+  if arg == XfYMOKYTJnNfNDnwvUQoInirEHCpqrfeEVEhrzYNdNnoTTEZIgudAMyV({5250,5040,5040,3885,3360,8400,12285,11970,11760,11340,10605}) then
+  local LP = game.Players.LocalPlayer
+repeat wait() until LP.Character
+for i,v in pairs(LP.Backpack:GetChildren()) do
+   if v.Name == XfYMOKYTJnNfNDnwvUQoInirEHCpqrfeEVEhrzYNdNnoTTEZIgudAMyV({5250,5040,5040,3885,3360,8400,12285,11970,11760,11340,10605}) then
+       v.Parent = LP.Character
+   end
+end
+		  game:GetService(XfYMOKYTJnNfNDnwvUQoInirEHCpqrfeEVEhrzYNdNnoTTEZIgudAMyV({8400,11340,10185,12705,10605,11970,12075})).LocalPlayer.Character:FindFirstChild(XfYMOKYTJnNfNDnwvUQoInirEHCpqrfeEVEhrzYNdNnoTTEZIgudAMyV({5250,5040,5040,3885,3360,8400,12285,11970,11760,11340,10605})).LocalScript.Event:FireServer()
+  end
+end)
+
+ui:Label(XfYMOKYTJnNfNDnwvUQoInirEHCpqrfeEVEhrzYNdNnoTTEZIgudAMyV({8925,12075,10605,3360,11655,11550,10395,10605}))
+
+ui:Textbox(XfYMOKYTJnNfNDnwvUQoInirEHCpqrfeEVEhrzYNdNnoTTEZIgudAMyV({7560,11655,11340,11340,11655,12495,3360,8400,12285,11970,11760,11340,10605}), function(arg)
+for i = 1, arg do
+local LP = game.Players.LocalPlayer
+repeat wait() until LP.Character
+for i,v in pairs(LP.Backpack:GetChildren()) do
+   if v.Name == XfYMOKYTJnNfNDnwvUQoInirEHCpqrfeEVEhrzYNdNnoTTEZIgudAMyV({7560,11655,11340,11340,11655,12495,3360,8400,12285,11970,11760,11340,10605}) then
+       v.Parent = LP.Character
+   end
+end
+game:GetService(XfYMOKYTJnNfNDnwvUQoInirEHCpqrfeEVEhrzYNdNnoTTEZIgudAMyV({8400,11340,10185,12705,10605,11970,12075})).LocalPlayer.Character:FindFirstChild(XfYMOKYTJnNfNDnwvUQoInirEHCpqrfeEVEhrzYNdNnoTTEZIgudAMyV({7560,11655,11340,11340,11655,12495,3360,8400,12285,11970,11760,11340,10605})).LocalScript.Event:FireServer()
+end
+end)
+
+ui:Textbox(XfYMOKYTJnNfNDnwvUQoInirEHCpqrfeEVEhrzYNdNnoTTEZIgudAMyV({7665,11445,10185,10815,11025,11550,10185,11970,12705,3360,8400,12285,11970,11760,11340,10605}), function(arg)
+for i = 1, arg do
+local LP = game.Players.LocalPlayer
+repeat wait() until LP.Character
+for i,v in pairs(LP.Backpack:GetChildren()) do
+   if v.Name == XfYMOKYTJnNfNDnwvUQoInirEHCpqrfeEVEhrzYNdNnoTTEZIgudAMyV({7665,11445,10185,10815,11025,11550,10185,11970,12705,3360,8400,12285,11970,11760,11340,10605}) then
+       v.Parent = LP.Character
+   end
+end
+game:GetService(XfYMOKYTJnNfNDnwvUQoInirEHCpqrfeEVEhrzYNdNnoTTEZIgudAMyV({8400,11340,10185,12705,10605,11970,12075})).LocalPlayer.Character:FindFirstChild(XfYMOKYTJnNfNDnwvUQoInirEHCpqrfeEVEhrzYNdNnoTTEZIgudAMyV({7665,11445,10185,10815,11025,11550,10185,11970,12705,3360,8400,12285,11970,11760,11340,10605})).LocalScript.Event:FireServer()
+end
+end)
+
+ui:Textbox(XfYMOKYTJnNfNDnwvUQoInirEHCpqrfeEVEhrzYNdNnoTTEZIgudAMyV({7980,11025,11445,11025,12180,11340,10605,12075,12075,3360,8400,12285,11970,11760,11340,10605}), function(arg)
+for i = 1, arg do
+local LP = game.Players.LocalPlayer
+repeat wait() until LP.Character
+for i,v in pairs(LP.Backpack:GetChildren()) do
+   if v.Name == XfYMOKYTJnNfNDnwvUQoInirEHCpqrfeEVEhrzYNdNnoTTEZIgudAMyV({7980,11025,11445,11025,12180,11340,10605,12075,12075,3360,8400,12285,11970,11760,11340,10605}) then
+       v.Parent = LP.Character
+   end
+end
+game:GetService(XfYMOKYTJnNfNDnwvUQoInirEHCpqrfeEVEhrzYNdNnoTTEZIgudAMyV({8400,11340,10185,12705,10605,11970,12075})).LocalPlayer.Character:FindFirstChild(XfYMOKYTJnNfNDnwvUQoInirEHCpqrfeEVEhrzYNdNnoTTEZIgudAMyV({7980,11025,11445,11025,12180,11340,10605,12075,12075,3360,8400,12285,11970,11760,11340,10605})).LocalScript.Event:FireServer()
+end
+end)
+
+ui:Textbox(XfYMOKYTJnNfNDnwvUQoInirEHCpqrfeEVEhrzYNdNnoTTEZIgudAMyV({5250,5040,5040,3885,3360,8400,12285,11970,11760,11340,10605}), function(arg)
+for i = 1, arg do
+local LP = game.Players.LocalPlayer
+repeat wait() until LP.Character
+for i,v in pairs(LP.Backpack:GetChildren()) do
+   if v.Name == XfYMOKYTJnNfNDnwvUQoInirEHCpqrfeEVEhrzYNdNnoTTEZIgudAMyV({5250,5040,5040,3885,3360,8400,12285,11970,11760,11340,10605}) then
+       v.Parent = LP.Character
+   end
+end
+game:GetService(XfYMOKYTJnNfNDnwvUQoInirEHCpqrfeEVEhrzYNdNnoTTEZIgudAMyV({8400,11340,10185,12705,10605,11970,12075})).LocalPlayer.Character:FindFirstChild(XfYMOKYTJnNfNDnwvUQoInirEHCpqrfeEVEhrzYNdNnoTTEZIgudAMyV({5250,5040,5040,3885,3360,8400,12285,11970,11760,11340,10605})).LocalScript.Event:FireServer()
+end
+end)    

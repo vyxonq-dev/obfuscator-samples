@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BadshahScript/Throw-a-Coin/refs/heads/main/Script.lua"))()

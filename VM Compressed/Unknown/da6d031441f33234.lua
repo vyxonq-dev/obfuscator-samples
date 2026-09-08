@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AimikaNarak/database/refs/heads/main/DepthSpelunkingAutoTesk.Lua"))()

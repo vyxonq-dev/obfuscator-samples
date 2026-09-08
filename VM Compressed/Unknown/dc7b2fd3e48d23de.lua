@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/mfordusu/Roblox-1-Speed-Slime-Keyboard-Escape-Proje-userxd/refs/heads/main/%2B1%20Speed%20Slime%20Keyboard%20Escape-%20en.txt"))()

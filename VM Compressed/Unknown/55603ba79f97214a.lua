@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/rafaelgennari723-bot/Terror-Hub/main/hub.lua"))()

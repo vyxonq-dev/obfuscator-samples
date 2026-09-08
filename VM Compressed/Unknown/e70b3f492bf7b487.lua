@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/luizdavidavi950-lang/test/refs/heads/main/Physics gun.lua"))()

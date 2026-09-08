@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/matchaonmydih/ai-test-vehicle-flinger/refs/heads/main/thing.lua"))()

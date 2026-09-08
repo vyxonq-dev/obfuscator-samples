@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NewIceHub/BrookhavenRP/refs/heads/main/Source.lua"))()

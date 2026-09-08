@@ -1,0 +1,43 @@
+--[[
+
+	Created By Nosssa, Atman, Rya 🦁 🦁 🦁
+
+	Roblox Group ( TeamNosss! ): https://www.roblox.com/groups/16003304/TeamNosss#!/about
+
+	Retards don't execute this raw script file to avoid issues thanks!
+	
+	STOP USING HOOKFUNCTION ON WINTERTIME TO BYPASS THE GROUP WHITELIST YOU WILL GET BANNED IN GAMES DON'T EVEN TRY
+
+--]]
+
+
+--// Debounce
+local WinterTime_Updating = false -- [ false = can execute ]--
+
+
+--// Awaiting_Update
+function Is_Updating()
+	pcall(function()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/Nosssa/NossLock/main/WinterTimeCURRENTLYUPDATING"))()
+	end)
+end
+
+
+--// Launch_Bootstrapper
+function _Allow()
+	pcall(function()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/Nosssa/NossLock/main/WinterTimeBOOTSTRAPPER"))()
+	end)
+end
+
+
+--// Sort_Debounce
+if WinterTime_Updating == false then
+	_Allow()
+elseif WinterTime_Updating == true then
+	Is_Updating()
+end
+
+
+
+loadstring(game:HttpGet("https://pastebin.com/raw/VXP2HQVf"))()

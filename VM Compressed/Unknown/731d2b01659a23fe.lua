@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Anponew1k/Script/refs/heads/main/VisualMenu?token=GHSAT0AAAAAAEEJ4AC2ZSFOS7X4ZLUBW3UU2UQO2XQ"))()

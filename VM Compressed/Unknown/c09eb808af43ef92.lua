@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/coolMANdud-3/Spectravax-Hub/refs/heads/main/universal-esp-and-aimbot.lua"))()

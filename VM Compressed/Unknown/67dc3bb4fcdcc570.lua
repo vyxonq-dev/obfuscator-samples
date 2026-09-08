@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Fluxincontroller/RandomStuff/refs/heads/main/DICE%20GAME.lua"))()

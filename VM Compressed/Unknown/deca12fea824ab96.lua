@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/meowmeow9910/liquid/refs/heads/main/anim/AnimationChanger.lua"))()

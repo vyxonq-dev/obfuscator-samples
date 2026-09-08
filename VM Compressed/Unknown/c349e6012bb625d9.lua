@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ddario66/scripttttt/refs/heads/main/%5BUPDATE%5D%20A%20Quiet%20Place%3A%20Deadzone%20(Pre-Alpha)"))()

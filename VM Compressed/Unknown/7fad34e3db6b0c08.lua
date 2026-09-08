@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/yes-d3v-scripts/super-ring/refs/heads/main/v5"))()

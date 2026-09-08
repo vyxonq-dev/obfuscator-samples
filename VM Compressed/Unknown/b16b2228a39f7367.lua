@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/joyfulpizza/Admin-glove/refs/heads/main/Adminscriptmain.lua"))()

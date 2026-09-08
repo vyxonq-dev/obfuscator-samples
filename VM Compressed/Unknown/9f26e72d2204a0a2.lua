@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Thuan6565/Script/refs/heads/main/FeFlingGui"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/x2neptunereal/Alchemy/main/gateway.luau"))({ "discord.gg/alchemyhub","x2neptune.space",true,"e4c" })

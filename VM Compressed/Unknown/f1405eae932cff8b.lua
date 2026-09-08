@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MRGAMING1141/Mrisreal/refs/heads/main/IND%20HUB%20LOADER"))()

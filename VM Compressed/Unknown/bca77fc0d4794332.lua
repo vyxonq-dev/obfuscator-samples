@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/xenopersonalbusiness-dot/6f2a7653a99a5c06cbbfd734098e2418/raw/a5018276f48e6c1e24878c529b8539a0c35fb7ed/Universalhub"))()

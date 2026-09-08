@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xpxking111111/Sinful/main/Source.lua"))()

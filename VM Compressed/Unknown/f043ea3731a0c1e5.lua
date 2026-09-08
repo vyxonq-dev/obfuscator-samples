@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zeptokid/custom-guis/refs/heads/main/Zepto%20clientsided",true))()

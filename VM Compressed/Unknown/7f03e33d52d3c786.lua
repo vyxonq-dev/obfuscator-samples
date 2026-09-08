@@ -1,0 +1,1 @@
+local WestBound = loadstring(game:HttpGet("https://raw.githubusercontent.com/developersecurity-rblx/GameSight-Enhancer/refs/heads/main/GameSightEnhancerFile's/GameSight%20Enhancer%20(WestBound).lua"))()

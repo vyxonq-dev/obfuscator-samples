@@ -1,0 +1,2 @@
+--key : https://discord.gg/fAfEwHyFDC
+loadstring(game:HttpGet("https://gist.githubusercontent.com/SrVorunaPrime/836997bcb16e3ce3269d70beb533b25d/raw/50e73094171099e90a7932e758e55f447dfe559e/Loader"))()

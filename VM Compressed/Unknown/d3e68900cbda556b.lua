@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/loffy327/LoffyHUB/refs/heads/main/Merge-A-Nuke.lua"))()

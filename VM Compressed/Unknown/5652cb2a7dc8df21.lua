@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kingoaz60-beep/Humea/refs/heads/main/key%20system%20better"))()

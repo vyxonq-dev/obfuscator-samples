@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DeathWiS2H/untitled-scripts/refs/heads/main/untitled%20admin"))()

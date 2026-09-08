@@ -1,0 +1,2 @@
+-- Run the leaderboard --- Note: Don't steal the code or I'll copyright you.
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sla35888/Better-Leaderboard/refs/heads/main/MainLeaderboard.Luau"))()

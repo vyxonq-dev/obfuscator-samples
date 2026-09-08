@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lunar-repo/beeswarm/refs/heads/main/release.lua"))()

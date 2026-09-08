@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GETSAUCEHUB/sauce-hub/main/sauce_hub_loader.lua"))()

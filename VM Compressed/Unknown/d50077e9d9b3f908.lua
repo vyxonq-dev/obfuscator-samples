@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Nickk-GG/Jailbird-Nickhub/refs/heads/main/sc.lua"))()  

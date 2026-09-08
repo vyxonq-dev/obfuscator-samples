@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/gleeboop/Script-Testing/refs/heads/main/UnanchoredParts.luau"),true))()

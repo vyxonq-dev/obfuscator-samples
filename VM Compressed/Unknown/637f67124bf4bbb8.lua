@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/freefire3626507-dotcom/COORDENADAS-by-Pedro_7p89/refs/heads/main/COORDENADAS%20by%20Pedro_7p89.lua"))()

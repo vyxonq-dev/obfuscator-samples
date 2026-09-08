@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BadshahScript/Update-Scratchy-Loot/refs/heads/main/Script.lua"))()

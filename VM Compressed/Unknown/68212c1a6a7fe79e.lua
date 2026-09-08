@@ -1,0 +1,1 @@
+loadstring(Game:HttpGet("https://raw.githubusercontent.com/Justaguy224122/SHV5/refs/heads/main/SHV5.lua"))()

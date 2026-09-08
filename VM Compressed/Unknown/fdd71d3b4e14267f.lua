@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Madcowplayz/TDSPro/refs/heads/main/V1.0.0"))()

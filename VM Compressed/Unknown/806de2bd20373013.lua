@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/scrilisk/vanta/refs/heads/main/loader"))()

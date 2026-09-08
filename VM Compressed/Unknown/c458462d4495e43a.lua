@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/MjContiga1/91e40e945a62c96e067d840bc9ec7a64/raw/beb0a426c2e04efa35e7ed9819051f367ec44812/Eliminition%2520Script.lua"))()

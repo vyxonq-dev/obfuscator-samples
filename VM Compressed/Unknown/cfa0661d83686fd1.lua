@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/daniil9072-wq/3ccf1c54e007df4813a1abb2f4144016/raw/1c91c43941d50110a5529ed81f60ca8049dcacd7/LornaHubKeySystem.lua"))()

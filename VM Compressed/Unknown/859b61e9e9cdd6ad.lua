@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/MjContiga1/9813a4c2004044983704f4d5d128fd6e/raw/97212e293253f65d1cc863c3f92887fe12c21d5b/Ultimate%2520Script%2520Fighting%2520Simulator.lua"))()

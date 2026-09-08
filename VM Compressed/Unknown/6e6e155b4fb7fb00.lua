@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ChDrago777/Unbox-A-99-Nights-In-The-forest/refs/heads/main/Lua"))()

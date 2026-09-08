@@ -1,0 +1,3 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ilikeices/script/refs/heads/main/achromatix.luau"))()
+
+

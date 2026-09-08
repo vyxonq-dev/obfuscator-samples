@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/theneutral0ne/true-aim/main/true-aim.lua"))()

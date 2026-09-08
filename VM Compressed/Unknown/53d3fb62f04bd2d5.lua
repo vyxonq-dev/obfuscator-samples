@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/Tesker-103/ab3e95fc6cbac5e1610f66d204e43650/raw/22b96fdfe0581bba9b6c9ef1ec2710dc26b88c17/FTNCV2"))()

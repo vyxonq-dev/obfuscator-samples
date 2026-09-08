@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/BlockyCoder/ff20bf5ea1416ffc7f0c98055c8ef8e5/raw/7a595df75819889c1b69be9898217e7e50d1e396/Anime%2520Fighting%2520Simulator%2520Endless"))()

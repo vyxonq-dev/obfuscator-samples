@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Mete134/TMFScript/refs/heads/main/MoneyFarm"))()

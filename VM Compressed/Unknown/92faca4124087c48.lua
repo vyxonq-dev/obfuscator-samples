@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Baltazarexe/Build-A-Farm-Factory/refs/heads/main/farmob.lua"))()

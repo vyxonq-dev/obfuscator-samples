@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://rscripts.net/raw/locust-fe-by-melon-scripter-check-the-description-for-hats_1785097445636_zsYvWCHw2Z.txt",true))()

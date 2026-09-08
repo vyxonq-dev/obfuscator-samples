@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/falselibrary/FalseScript/refs/heads/main/BabftFarm.lua"))()

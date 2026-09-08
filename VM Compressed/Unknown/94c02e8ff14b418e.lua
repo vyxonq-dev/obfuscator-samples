@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/asterrcsk1/3b139947579e609801507adf68b30aef/raw/9c808cd5213c63962fe3558338a1596b92c1e2f0/Roblox%2520FTAP%2520triggerBot"))()

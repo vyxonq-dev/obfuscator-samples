@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Nanana291/Imp/refs/heads/main/Kronos.lua"))()

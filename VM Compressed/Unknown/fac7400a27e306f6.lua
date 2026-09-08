@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/wayhead26-ops/airesz-key-system/main/examples/key-system-gui.lua?v=" .. os.time(),true))()

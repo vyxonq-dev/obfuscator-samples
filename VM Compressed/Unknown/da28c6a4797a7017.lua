@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zateviss/Z-HUB/refs/heads/main/ThsV4.lua"))()

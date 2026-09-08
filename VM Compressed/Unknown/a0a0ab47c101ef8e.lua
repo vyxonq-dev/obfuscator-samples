@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sleeplesskyoto/daydreamer/refs/heads/main/loader.lua"))()

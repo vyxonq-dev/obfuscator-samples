@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/luascriptzz/Nytrxhub/refs/heads/main/Universal"))()

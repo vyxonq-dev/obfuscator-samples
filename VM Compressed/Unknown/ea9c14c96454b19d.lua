@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/gaming1x1god/yess/refs/heads/main/Uwuifier"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Lvantaas/BloxStrike/refs/heads/main/Bloxstrike.lua'))()

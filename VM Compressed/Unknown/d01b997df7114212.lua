@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/loffy327/LoffyHUB/refs/heads/main/Throw-A-Coin.lua"))()
+--- Please don't report bugs in this chat. Join my Discord server and report them in the forum section

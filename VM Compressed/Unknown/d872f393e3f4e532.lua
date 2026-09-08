@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Snicker2013/Some-Random-Things/refs/heads/main/Locust%20ESP")

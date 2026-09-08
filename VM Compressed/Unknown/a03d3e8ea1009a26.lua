@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Imperium-Development/Imperium/refs/heads/main/Imperium.lua', true))()

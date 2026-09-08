@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HELLOWORLDZQY/typical-rng/main/typical%20rng.lua", true))()

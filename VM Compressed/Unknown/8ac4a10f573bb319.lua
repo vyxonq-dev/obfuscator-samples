@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/speedwavevip/Main/refs/heads/main/LaScript.lua")))()

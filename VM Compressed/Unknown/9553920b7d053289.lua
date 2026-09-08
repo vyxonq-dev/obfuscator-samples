@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/alhgeman/93e2421801abf23c1e85a01b219829f0/raw/bhrm5-operator-tools"))()

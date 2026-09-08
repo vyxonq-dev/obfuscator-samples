@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xaf13boi/mine-a-mountain/refs/heads/main/minethemountain", true))()

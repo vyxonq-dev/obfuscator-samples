@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/MjContiga1/616eee7a47a7248f4440ee3cae6f4311/raw/64ed65d63c1fa8e36e752aed879864ab67928aec/Slap%2520simulator.lua"))()

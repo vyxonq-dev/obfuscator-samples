@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/im-a-script-kiddie/orbithub/refs/heads/main/script'))()

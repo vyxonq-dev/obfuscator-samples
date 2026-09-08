@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/ruwten/9a847b046d66cf3979b2b7249cf06bec/raw/9c4282be4e8629276e6af43752f269eb4cdd1ff5/Game-Id-Checker"))()

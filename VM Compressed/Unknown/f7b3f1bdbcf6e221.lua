@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/abdulazizabdulayev937-hub/Part-Spawn/refs/heads/main/Part%20Spawn"))()

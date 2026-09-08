@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/skibidigyat64-a11y/970d49e4ef2f629e4bf5a6593680345a/raw/8f499dafcfa1008fbac9a1c8129ea780c580b1cd/Roblox%2520noise%2520script%2520first%2520playtest%2520build%2520but%2520this%2520time%2520better"))()

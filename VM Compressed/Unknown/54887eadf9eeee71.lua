@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/ngm2807-sudo/3f7931e94a9b934c1bbf491c84b7e671/raw/SourceTSBbyBaeMinh.lua"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/XE3Scripts/Axur-sGamesHub/refs/heads/main/Axur%20Merge%20a%20Nuke"))()

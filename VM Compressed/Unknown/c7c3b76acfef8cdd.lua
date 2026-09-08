@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/erterdterxtwerferqq-sys/Luna-Interface-Suite/refs/heads/master/dev/test2"))()

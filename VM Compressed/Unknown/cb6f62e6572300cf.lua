@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Xkaka228X/Hello_gui/refs/heads/main/Friend%20manager%20pro"))()

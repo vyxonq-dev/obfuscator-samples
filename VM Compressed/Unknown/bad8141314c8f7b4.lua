@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CapybaraScript/Key/main/aimbot%20v5%20jaaj-obfuscated.lua"))()

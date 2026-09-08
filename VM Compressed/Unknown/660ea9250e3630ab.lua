@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NetlessScripter/Miles-Morales/refs/heads/main/The%20Flash%20Script", true))()

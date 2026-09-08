@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vixonpolska/FEClassicAnimations/refs/heads/main/Animations.lua",true))()

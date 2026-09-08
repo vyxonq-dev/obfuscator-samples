@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/nexiuse/NexHubMain/refs/heads/main/Loader.lua"))()

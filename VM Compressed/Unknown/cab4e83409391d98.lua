@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Xxtan31/Equinox-Hub/refs/heads/main/Aimbots/directions.lua", true))()

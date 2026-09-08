@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Wzeks/-1-Mine-Per-Click/refs/heads/main/script"))()

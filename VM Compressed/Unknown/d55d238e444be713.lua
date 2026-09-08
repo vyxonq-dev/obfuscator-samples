@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/celestinoencanto/NexuLib/main/NexuLibV3.lua"))()

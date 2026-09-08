@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/MjContiga1/fdcecbc4c57184ce243738330c2ae78d/raw/27ace2e0cf20e7068c66cca29f08cb950ccf25fe/Mythical%2520Create%2520defense.lua"))()

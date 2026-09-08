@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Themiga/darkhub/main/lua/hub.lua"))()

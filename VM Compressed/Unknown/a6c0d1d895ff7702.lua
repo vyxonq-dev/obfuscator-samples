@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://github.com/XVC-THE-CODER/Renux-Hub/releases/latest/download/loader.lua",true))()

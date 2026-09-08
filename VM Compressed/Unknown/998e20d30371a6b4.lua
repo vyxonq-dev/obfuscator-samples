@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/naopodenamorar/mec-br/refs/heads/main/RTmec%20br"))()

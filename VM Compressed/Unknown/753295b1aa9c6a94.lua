@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kei-0-zen/FullbrightObfuscated/51fb68bb74a6bb161add554c234b785ad63462d2/Protected_1451207484424395.lua.txt"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/dfgdtfset/Monster-runners_script/refs/heads/main/Monster%20runners_script'))()

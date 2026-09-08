@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/adoadonix/Adonix-hub-v2-updated-for-deathnote-super-op/refs/heads/main/adonix%20hub%20v3"))()

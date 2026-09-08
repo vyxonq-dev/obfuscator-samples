@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hinolll/arsenalll/refs/heads/main/arsenallllll"))()

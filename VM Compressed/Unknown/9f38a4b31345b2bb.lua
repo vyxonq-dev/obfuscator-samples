@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Yuji-source/Universal-waypoint-script/refs/heads/main/Main.lua"))()

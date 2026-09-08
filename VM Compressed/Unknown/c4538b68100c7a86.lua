@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/yes-d3v-scripts/drop-kick-fling/refs/heads/main/script"))()

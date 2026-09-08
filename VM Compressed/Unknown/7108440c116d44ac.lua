@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SlomDEV/fenti/refs/heads/main/FentiTBD"))()

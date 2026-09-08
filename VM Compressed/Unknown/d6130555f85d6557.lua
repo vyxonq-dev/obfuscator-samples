@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/5x5x5x50s/H/refs/heads/main/Yasin000266%20GUI%20V2"))()

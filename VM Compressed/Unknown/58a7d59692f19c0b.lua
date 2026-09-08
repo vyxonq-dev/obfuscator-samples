@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://rawscripts.net/raw/You-VS-Homer-wallhop-111048"))()

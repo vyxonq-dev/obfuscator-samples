@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NextGenNu/MenuUniversalPassword/refs/heads/main/script.lua"))()

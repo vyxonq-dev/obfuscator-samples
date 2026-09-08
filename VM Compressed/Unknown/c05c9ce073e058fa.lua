@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kenniel123/Merge-a-mini-army/refs/heads/main/Merge%20A%20Mini%20Army"))()

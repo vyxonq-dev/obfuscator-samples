@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/fatihcubukcuu25-tech/ec8e4662a5ef3b61168b4fcf1b17059a/raw/52ea3673a56419f0b1410bac990dc9bae2d292c2/DevConqueror%2520Global%2520Script"))()

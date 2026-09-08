@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/HopesInDestiny/Hyrox-Baddies-/refs/heads/main/baddies'))()

@@ -1,0 +1,1 @@
+pcall(loadstring(game:HttpGet('https://raw.githubusercontent.com/zReal-King/Kings-Hub/refs/heads/main/Main.lua')))

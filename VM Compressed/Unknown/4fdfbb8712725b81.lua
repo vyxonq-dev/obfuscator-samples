@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HalisOnTop/Horizon/refs/heads/main/Loader.lua"))()

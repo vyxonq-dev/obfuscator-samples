@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/eggman1243/EggHead-Tools/refs/heads/main/Tool"))()

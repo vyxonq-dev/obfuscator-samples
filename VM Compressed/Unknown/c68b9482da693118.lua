@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/MjContiga1/a154e13bb214ae1e9a822ccda5cac251/raw/d49d3e55da408529dfffad0763de11574e25ca2f/Dungeon%2520web.lua"))()

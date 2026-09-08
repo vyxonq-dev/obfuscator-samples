@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SeisenHub/Hub/refs/heads/main/Free.lua", true))()

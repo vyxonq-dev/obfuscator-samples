@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ziyadubled9/ZIYAMM2/refs/heads/main/main"))()

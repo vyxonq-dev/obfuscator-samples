@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TheSunne/luau/refs/heads/main/aircraftcarrier.lua"))()

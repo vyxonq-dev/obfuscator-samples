@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Eleainlinkyuzed/LY-Midnight-Chasers/refs/heads/master/script.lua"))()

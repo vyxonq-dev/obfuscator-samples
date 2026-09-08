@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-1O2P3Z4A0K-GUI-29306"))()

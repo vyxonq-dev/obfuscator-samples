@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/gramofon172-source/roblox-scripts/refs/heads/main/Bots%20and%20Muskets%20cheats.lua"))()

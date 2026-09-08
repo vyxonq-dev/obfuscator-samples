@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gitea.com/Firman/Just-a-hobby/raw/branch/main/fly"))()

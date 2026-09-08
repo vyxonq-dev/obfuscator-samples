@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/scriptishere8543/GEF-Scripts/refs/heads/main/GEF_Script_v1.0.lua"))()

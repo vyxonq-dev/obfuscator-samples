@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/low-hash/8987d2abad3fa928e063adb22dc39bf7/raw/d087c2280ea6e5fd6a709399c5fa8fb8573b8135/null_doors_nyx_v17.lua",true))()

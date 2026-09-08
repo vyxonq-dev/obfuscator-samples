@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/deAYS/Radium-Hub/refs/heads/main/Loader.lua"))()

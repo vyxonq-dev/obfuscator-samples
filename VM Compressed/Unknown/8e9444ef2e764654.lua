@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NoobBacon0/GuessTheFootballCountry/refs/heads/main/obfuscated_script-1787488427697.lua"))()

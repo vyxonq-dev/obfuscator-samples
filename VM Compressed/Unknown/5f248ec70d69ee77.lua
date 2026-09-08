@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://codeberg.org/Nother/Aps-Shader/raw/branch/main/Asp-Shader"))()

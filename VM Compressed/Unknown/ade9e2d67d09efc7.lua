@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://riseloader.vercel.app/scripts/loader.lua"))()

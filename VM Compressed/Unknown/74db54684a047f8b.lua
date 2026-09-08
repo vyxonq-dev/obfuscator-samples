@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/lucasscripts9/scripts/refs/heads/main/SimpleSlapFarm.txt')))()

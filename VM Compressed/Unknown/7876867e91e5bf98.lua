@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vxperity/Bloxify/refs/heads/main/loader.lua"))()

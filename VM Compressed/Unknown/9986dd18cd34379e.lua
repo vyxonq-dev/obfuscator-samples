@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/spjreach/.../refs/heads/main/main.lua"))()

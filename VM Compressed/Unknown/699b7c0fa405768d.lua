@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ZyrikScript/testing/refs/heads/main/tools", true))()

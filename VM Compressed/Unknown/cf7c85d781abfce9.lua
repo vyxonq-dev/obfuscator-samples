@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/VampVS/Gem-Aura/refs/heads/main/casehaven"))()

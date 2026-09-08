@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SynioxStudios/SynioxPublic-ShHub-YSF/refs/heads/main/ShHub.lua"))()

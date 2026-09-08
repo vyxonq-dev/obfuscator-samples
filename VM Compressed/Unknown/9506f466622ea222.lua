@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://getalchemy.net/n'))()

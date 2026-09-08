@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kokoboycool8-cpu/MONOCHROME-SCRIPT-V1/refs/heads/main/MONOCHROME%20SCRIPT%20V1.2"))()

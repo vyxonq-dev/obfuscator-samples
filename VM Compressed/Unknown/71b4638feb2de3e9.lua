@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ppikaaaaa/Synaptix-Loader2/refs/heads/main/Synaptix_Loader2.lua"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Axrex664/NexbyteLoader/main/Loader.lua"))()

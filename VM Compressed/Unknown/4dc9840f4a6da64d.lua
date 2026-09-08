@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/aaaa45451619/SLAPP-all-prayer/refs/heads/145/Troll%20Tower%202%20Free"))()

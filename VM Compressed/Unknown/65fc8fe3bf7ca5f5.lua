@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/justmoon56/Moon-Hub-X/refs/heads/main/Legacy.lua"))()

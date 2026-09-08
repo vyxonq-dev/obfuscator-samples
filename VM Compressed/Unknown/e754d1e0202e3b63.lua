@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/patch-ez/animals-touched-me/main/animal_hospital_automation_obfuscated.lua"))()

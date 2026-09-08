@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/GhosterXS/8c777783799577d182398f241f70558d/raw/d4e431066fd6d32d988565db07682e59f198e123/Night%2520Hub.lua"))()

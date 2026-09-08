@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/akkermanjulian416-dotcom/FBhub/refs/heads/main/FBHUB.lua"))()

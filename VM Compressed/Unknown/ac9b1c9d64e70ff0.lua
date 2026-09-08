@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://naikoexploit.vercel.app/ForsakenPlus"))()

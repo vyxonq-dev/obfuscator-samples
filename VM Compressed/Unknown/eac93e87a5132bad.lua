@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/wzzrdg-lab/BLACKDEVHUB-/refs/heads/main/BLACKDEVHUBobfuscated_script.lua.txt"))()

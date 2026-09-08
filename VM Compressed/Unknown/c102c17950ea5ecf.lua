@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-BATUHAN-AUDIO-PLAYER-96753"))()

