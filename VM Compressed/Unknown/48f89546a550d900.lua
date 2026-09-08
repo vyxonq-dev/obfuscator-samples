@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kwestin35/Void-hub-/main/LOL.txt"))()

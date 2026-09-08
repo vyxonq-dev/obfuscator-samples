@@ -1,0 +1,2 @@
+script_key = "PRACTICALLY-NIGGERS" -- Paste your key here or if the script is free put trial
+loadstring(game:HttpGet("https://api.getpolsec.com/scripts/hosted/dc1a609d30abbf53e7f580ad6670c6f371fc2681fbc719ca3b856ab80865ea80.lua"))()

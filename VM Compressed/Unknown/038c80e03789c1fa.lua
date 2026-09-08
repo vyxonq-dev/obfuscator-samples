@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/m1lloo/Roblox-Scripties/refs/heads/main/Scripts/sharkbite.lua"))()

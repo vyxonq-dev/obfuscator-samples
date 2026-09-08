@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/dmitrik1488/LordHub/refs/heads/main/Converter'))()

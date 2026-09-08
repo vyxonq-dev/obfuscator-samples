@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Nish12345678910111/myscripts/refs/heads/main/Nishgamerr-loader.lua"))()

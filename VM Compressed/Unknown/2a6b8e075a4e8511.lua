@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/abirvoid/9b669285f1f271dab914faca3997bbef/raw/AVOB-Military-Tycoon-Loader.lua"))()

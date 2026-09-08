@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/nismovxa/acro-hub/refs/heads/main/acro-main"))()

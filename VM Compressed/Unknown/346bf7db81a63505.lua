@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/rvalsxd/Tools-Loader/main/init.lua"))()

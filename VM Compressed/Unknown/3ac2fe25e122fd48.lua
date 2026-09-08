@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kdottcam/relay-scripts/main/scripts/loader.lua"))()

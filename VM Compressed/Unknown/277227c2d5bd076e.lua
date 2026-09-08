@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://ashlabs.me/api/game?name=brainblast-a-lucky-block.lua", true))()

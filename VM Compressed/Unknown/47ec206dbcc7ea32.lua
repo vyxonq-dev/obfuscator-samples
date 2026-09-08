@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/Galaxy-BloxYT/c3db5cf3556aacd99e4b4414b6e57918/raw/9f9e54323f14b8aae699c96a7954ed0705c5dfa9/Galaxy's%20Hub%20Key%20System"))()

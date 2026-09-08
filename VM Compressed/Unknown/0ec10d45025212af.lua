@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaScr1pt/AtezHub-MVS-deltaxd/refs/heads/main/AtezHub(MVS)deltaxd"))()

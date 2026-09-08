@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/megamineyourmom/ScarShadeR/refs/heads/main/Roblox"))()

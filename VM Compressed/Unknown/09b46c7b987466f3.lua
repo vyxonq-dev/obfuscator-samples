@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/modcreate1641-collab/VeridianProject/refs/heads/main/veridianlib.lua"))()

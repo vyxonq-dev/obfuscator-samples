@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CrissCross-1/BownHub/refs/heads/main/BHLoader.lua"))()

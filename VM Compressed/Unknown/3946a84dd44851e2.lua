@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FlowinxGG/Flowinx-Scripts/refs/heads/main/Flowinx%20underground%20war%202.0"))()

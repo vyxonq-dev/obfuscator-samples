@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kazitu-off/aurora-hub/refs/heads/main/loader"))()

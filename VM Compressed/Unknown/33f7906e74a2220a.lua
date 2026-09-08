@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HolixRevenge/Revengerzzz/refs/heads/main/lua"))()

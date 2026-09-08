@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MOXHUBBYTE/MOX-HUB-SCRIPTHUB/refs/heads/main/MOX%20HUB"))()

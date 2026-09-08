@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NOOB-IIT/Script-/64dc0fffc5e9b73513c488290ec49fee78e7b91c/RED%20HUB%20Quiz%20Genrator%20V1"))()

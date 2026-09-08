@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://rawscripts.net/raw/UP-Just-a-baseplate.-fe-terraprisma-71842"))()

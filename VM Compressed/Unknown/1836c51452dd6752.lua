@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://ashlabs.me/api/game?name=pull-a-lucky-fish.lua", true))()

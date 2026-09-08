@@ -1,0 +1,8 @@
+--[[
+	Code generated using github.com/Herrtt/luamin.js
+	An open source Lua beautifier and minifier.
+--]]
+
+
+
+if game.PlaceId~=13977939077 then game.Players.LocalPlayer:Kick("This script only works on CHAIN SURVIVAL MODE!")end;local a=loadstring(game:HttpGet('https://sirius.menu/rayfield'))()local b=a:CreateWindow({Name="CHAIN Script Hub",LoadingTitle="Chain Script.",LoadingSubtitle="By Andreixgamer900",ConfigurationSaving={Enabled=true,FolderName=nil,FileName="Grom Hub"},Discord={Enabled=true,Invite="https://discord.gg/8xT4bkRd",RememberJoins=true},KeySystem=true,KeySettings={Title="KEY SYSTEM ( SAVES )",Subtitle="Key System",Note="Join the discord server to get key!",FileName="Key",SaveKey=true,GrabKeyFromSite=true,Key={"ChainOnTop"}}})local b=b:CreateTab("Home",nil)local c=b:CreateSection("Main")a:Notify({Title="SCRIPT IS BIT BROKEN SO USE ON YOUR RICK!",Content="HAVE FUN!",Duration=10,Image=nil,Actions={Ignore={Name="ok",Callback=function()end}}})local a=b:CreateButton({Name="CHAIN AIMBOT",Callback=function()loadstring(game:HttpGet("https://raw.githubusercontent.com/BongCloudMaster/CHAIN/main/aimbot.lua"))()end})local a=b:CreateButton({Name="CHAIN ESP",Callback=function()loadstring(game:HttpGet("https://raw.githubusercontent.com/BongCloudMaster/CHAIN/main/chain%20esp.lua"))()end})local a=b:CreateSection("SCRAPS")local a=b:CreateButton({Name="COLLECT SCRAPS [BIT BROKEN] , [USE WITHOUT NOCLIP]",Callback=function()loadstring(game:HttpGet("https://raw.githubusercontent.com/BongCloudMaster/CHAIN/main/scrapcollector.lua"))()end})

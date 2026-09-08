@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/GhosterXS/4820f8df471d472834118943c067ac44/raw/0133815dfea832479cccca785fabb4387fd0d774/Speedy%2520Hub.lua"))()

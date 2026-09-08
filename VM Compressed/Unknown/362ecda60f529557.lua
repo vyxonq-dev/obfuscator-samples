@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/evelynnscripts/vexal/refs/heads/main/mvsd.lua"))()

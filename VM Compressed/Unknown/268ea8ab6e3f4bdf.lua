@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BoomEToH/TBP/refs/heads/main/TheBaseplate"))()

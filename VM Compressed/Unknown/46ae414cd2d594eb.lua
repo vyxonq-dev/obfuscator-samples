@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BlackxNerm/Projects/refs/heads/main/YTZ"))()

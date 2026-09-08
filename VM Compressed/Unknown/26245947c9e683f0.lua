@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SteamyHub/loader/refs/heads/main/steamy.lua"))()

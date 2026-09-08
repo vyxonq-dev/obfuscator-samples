@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://rawscripts.net/raw/Natural-Disaster-Survival-DISASTER-NATURAL-MENU-CORONAX-HUB-NO-KEY-BY-ANOM4LY-61288"))()

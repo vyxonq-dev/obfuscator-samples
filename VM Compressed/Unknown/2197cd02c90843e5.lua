@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/levm-18/J-Hub/refs/heads/main/main.lua", true))()

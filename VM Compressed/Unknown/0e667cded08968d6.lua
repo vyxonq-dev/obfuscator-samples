@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xRovi/scripts/refs/heads/main/rivals/Main.lua"))()

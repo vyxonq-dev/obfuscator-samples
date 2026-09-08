@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/wateringcancan-eng/209697b404ddee53bac61f2dca1237fc/raw/690217aa6cf7e4d5717b4caa285f2236b1dcde26/C00lcl4n_2_0.lua"))()

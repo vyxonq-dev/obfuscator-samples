@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/Dustin21335/61ab556c353b98a7a9f9c74bb9540a16/raw/d36110144fd5d973932fd3c462086fbb3506be78/Find%2520Buttons%2520Script"))()

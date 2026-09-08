@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ManiacTheeBarescriptor/dudu/refs/heads/main/DusekkarAnimPack.lua"))()

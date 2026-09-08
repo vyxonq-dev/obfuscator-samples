@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Crack-rbx/Scripts/main/Roblox/Entrenched%20Xstar.lua"))()

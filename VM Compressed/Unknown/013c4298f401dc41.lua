@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gitlab.com/OhhSangg/stealtrix-public-arsenal-script/-/raw/main/main.lua"))()

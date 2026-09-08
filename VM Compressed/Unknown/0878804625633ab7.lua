@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lester-cpu/Krystal-dance-v3/refs/heads/main/Krystal"))()

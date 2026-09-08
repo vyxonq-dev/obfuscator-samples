@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sodiumhub/universale/refs/heads/main/www", true))()

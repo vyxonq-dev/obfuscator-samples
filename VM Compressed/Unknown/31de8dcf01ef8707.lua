@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lionelbenayap1910-ctrl/vertexhub/refs/heads/main/VertexHub.lua"))()

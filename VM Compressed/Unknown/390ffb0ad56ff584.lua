@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/kryptxmane/f07a30750bc9d041bd27b4ca3f17050d/raw/VyntrixHub.lua"))()

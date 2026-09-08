@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/diraDJ83/black-hole-script/refs/heads/main/script.lua"))()

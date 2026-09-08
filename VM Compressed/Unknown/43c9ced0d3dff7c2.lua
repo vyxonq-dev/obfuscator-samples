@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/mudinda12396-a11y/-1-Speed-Escape-in-a-Go-Kart-script-keyless/refs/heads/main/thing.lua"))()

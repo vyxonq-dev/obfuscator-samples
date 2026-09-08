@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/uiahubUI/Script/refs/heads/main/UIA%20HUB%20v3"))()

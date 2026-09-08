@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/redivancee/MVSD/refs/heads/main/Main"))()

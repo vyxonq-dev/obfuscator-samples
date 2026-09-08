@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/XxalxX-ITM/ITMEANS-RECHAT-NEW/refs/heads/main/%2520.lua"))()

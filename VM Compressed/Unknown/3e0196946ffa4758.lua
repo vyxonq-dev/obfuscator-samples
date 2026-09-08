@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Wellithastobe/scripts/refs/heads/main/Untitled%20Wheelie%20Game"))()

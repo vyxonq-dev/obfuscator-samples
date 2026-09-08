@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/n0namevnnek-web/Merge-a-Nuke-/refs/heads/main/Key.lua"))()

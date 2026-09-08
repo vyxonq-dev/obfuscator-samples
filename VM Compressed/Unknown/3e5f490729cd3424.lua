@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Venomuus/Sell-Lemons-Fool-HUB/main/Sell%20Lemons%20Fool%20HUB.lua"))()

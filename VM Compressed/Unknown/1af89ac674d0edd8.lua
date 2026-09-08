@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bao-2204/bao/refs/heads/main/Main/BeeSwarmSimulator.lua"))()

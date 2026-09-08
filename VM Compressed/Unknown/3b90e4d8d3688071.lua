@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PAPIKING-CODER/KOD-STUDIO/refs/heads/main/KOD-AIMBOT.lua"))()

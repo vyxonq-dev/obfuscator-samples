@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sonicisnumber12/MY5TCRIMSONXMOVESET/refs/heads/main/main.lua"))()

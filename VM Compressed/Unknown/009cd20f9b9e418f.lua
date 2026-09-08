@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vvhoy884ugvv/Update-3/refs/heads/main/Fort"))()

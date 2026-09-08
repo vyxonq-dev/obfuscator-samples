@@ -1,0 +1,2 @@
+getgenv().NO_NOTIFICATIONS = false -- // change this to true, if you DONT want NOTIFICATIONS
+loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/f9579e7b57facdbd5a3c599d5ab97afd74d4b2ba2e9eb711f75abcdac1586a4a/download"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/mikomeneses11/Jujutsu-Culling-script-/refs/heads/main/jujutsu%20culling%20script"))()

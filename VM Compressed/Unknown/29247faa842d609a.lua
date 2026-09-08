@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/pholit228-spec/21052271a80d3e05ee6ce2c79b0351c7/raw/3a649b5f96720f86a0208f9d967fd45e17cc0c8b/autoBuild-babft"))()

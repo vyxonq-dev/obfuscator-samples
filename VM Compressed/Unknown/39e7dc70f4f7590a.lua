@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gitlab.com/binnnnarrry/sigeonpex-script-viewer/-/raw/main/dist/SigeonPexScriptViewer.lua"))()

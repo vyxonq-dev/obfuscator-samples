@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kageperma-max/Universal-DevTools-K.KH.M-Script-Roblox-/refs/heads/main/Script"))()

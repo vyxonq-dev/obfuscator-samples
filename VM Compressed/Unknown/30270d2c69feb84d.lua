@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Yukishimaru228/yukishimaru-roblox-shaders/refs/heads/main/yukishimaru-roblox-shader-for-roblox.lua"))()

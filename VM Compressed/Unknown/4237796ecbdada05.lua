@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://github.com/Vint4ge-swag/VectorSSexecutor/raw/main/VectorSS.lua"))()

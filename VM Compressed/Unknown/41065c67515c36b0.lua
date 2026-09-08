@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bintang-X/teleporttoplayer-roblox/main/sc.lua"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/shutup1237/Source-/refs/heads/main/Generic%20blood%20ragdoll"))()

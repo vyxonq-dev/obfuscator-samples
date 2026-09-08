@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Beshoy966/Neblu-X-bbh/refs/heads/main/Nubla_Minified.lua"))()

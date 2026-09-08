@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/fivetagz-prog/xenon-byte-steal-an-egg-script/refs/heads/main/xenon-byte-sac.lua"))()

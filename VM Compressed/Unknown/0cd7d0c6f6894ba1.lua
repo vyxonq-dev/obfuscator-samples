@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DracoSwagBaby/SYNTH-X-V4/refs/heads/main/KEYSYSTEM.lua"))()

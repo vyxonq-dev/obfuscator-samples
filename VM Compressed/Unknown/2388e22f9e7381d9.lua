@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DominumNetwork/OWATAMSATE/refs/heads/main/script.lua"))()

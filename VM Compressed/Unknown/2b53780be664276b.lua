@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/KazoriZip/Kzara/refs/heads/main/VantaYba'))()

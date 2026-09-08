@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Darkmoonxhubscript/DarkMoon_Animator/refs/heads/main/DarkMoonAnimator_V2.4_Test.txt", true))()

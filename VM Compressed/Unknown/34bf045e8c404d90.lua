@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Harpxy/FlyGuiV3OfTurkish/refs/heads/main/FlyGuiV3OfTurkish"))()

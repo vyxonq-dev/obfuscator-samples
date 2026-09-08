@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Mrpopcatfrombupge/Astral-Hub/main/Day%20Farm"))()
